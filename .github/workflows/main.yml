@@ -2,7 +2,7 @@ name: Send Daily Questions
 
 on:
   schedule:
-    - cron: '50 8 * * *'
+    - cron: '10 11 * * *'
 
 jobs:
   build:
