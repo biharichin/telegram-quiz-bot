@@ -38,11 +38,16 @@ async def send_questions():
         for chat_id in chat_ids:
             for q in questions_to_send:
                 question_text = f"Q{q['id']}: {q['question']}\n"
-                options = ""
-                for key, value in q['options'].items():
-                    options += f"{key}: {value}\n"
-                
-                await bot.send_message(chat_id=chat_id, text=question_text + options)
+                options = [value for key, value in q['options'].items()]
+                correct_option_id = ord(q['answer']) - ord('A')
+
+                await bot.send_poll(
+                    chat_id=chat_id,
+                    question=question_text,
+                    options=options,
+                    type='quiz',
+                    correct_option_id=correct_option_id
+                )
 
         progress["last_sent_id"] = end_index
         print(f"[DEBUG] Updated last_sent_id to: {end_index}")
