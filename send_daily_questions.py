@@ -19,16 +19,20 @@ def send_questions():
     with open("progress.json", "r+") as f:
         progress = json.load(f)
         last_sent_id = progress.get("last_sent_id", 0)
+        print(f"[DEBUG] Initial last_sent_id: {last_sent_id}")
         
         start_index = last_sent_id
         end_index = start_index + 20
         
         if start_index >= len(questions):
+            print("[DEBUG] No more questions to send.")
             for chat_id in chat_ids:
                 bot.send_message(chat_id=chat_id, text="No more questions, we are done!")
             return
             
         questions_to_send = questions[start_index:end_index]
+        print(f"[DEBUG] Sending questions from index {start_index} to {end_index}.")
+        print(f"[DEBUG] Questions to send: {[q['id'] for q in questions_to_send]}")
         
         for chat_id in chat_ids:
             for q in questions_to_send:
@@ -40,6 +44,7 @@ def send_questions():
                 bot.send_message(chat_id=chat_id, text=question_text + options)
 
         progress["last_sent_id"] = end_index
+        print(f"[DEBUG] Updated last_sent_id to: {end_index}")
         f.seek(0)
         json.dump(progress, f, indent=4)
 
