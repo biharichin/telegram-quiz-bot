@@ -1,9 +1,10 @@
 
+import asyncio
 import json
 import os
 import telegram
 
-def send_questions():
+async def send_questions():
     bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_ids = [os.environ.get("MY_CHAT_ID"), os.environ.get("FRIEND_CHAT_ID")]
     
@@ -27,7 +28,7 @@ def send_questions():
         if start_index >= len(questions):
             print("[DEBUG] No more questions to send.")
             for chat_id in chat_ids:
-                bot.send_message(chat_id=chat_id, text="No more questions, we are done!")
+                await bot.send_message(chat_id=chat_id, text="No more questions, we are done!")
             return
             
         questions_to_send = questions[start_index:end_index]
@@ -41,7 +42,7 @@ def send_questions():
                 for key, value in q['options'].items():
                     options += f"{key}: {value}\n"
                 
-                bot.send_message(chat_id=chat_id, text=question_text + options)
+                await bot.send_message(chat_id=chat_id, text=question_text + options)
 
         progress["last_sent_id"] = end_index
         print(f"[DEBUG] Updated last_sent_id to: {end_index}")
@@ -49,4 +50,4 @@ def send_questions():
         json.dump(progress, f, indent=4)
 
 if __name__ == "__main__":
-    send_questions()
+    asyncio.run(send_questions())
