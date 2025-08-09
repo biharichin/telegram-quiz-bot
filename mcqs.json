@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "question": "Which of the following is NOT included in the calculation of Gross National Product GNP?",
+        "question": "Which of the following is NOT included in the calculation of Gross National Product",
         "options": {
             "A": "Wages paid to Indian workers abroad",
             "B": "Profits of Indian companies operating overseas",
@@ -34,12 +34,11 @@
     },
     {
         "id": 4,
-        "question": "India's economic growth accelerated to what percentage in 202324?",
+        "question": "India's economic growth accelerated to what percentage in 2023-24?",
         "options": {
             "A": "6.8%",
             "B": "7.2%",
-            "C": "7.6%ok generate total 500 mcq question with answer. from all 9 major sections. 500 MCQ Questions on Indian Economy - UPSC Preparation Section 1 Basic Concepts of Economy 55 Questions)",
-            "D": "8.1%"
+            "C": "7.6%\fD) 8.1%"
         },
         "answer": "C"
     },
@@ -47,9 +46,9 @@
         "id": 5,
         "question": "Consumer Price Inflation in India is primarily measured using which index?",
         "options": {
-            "A": "Wholesale Price Index WPI",
-            "B": "",
-            "C": "onsumer Price Index for Industrial Workers CPIIW C Consumer Price Index Combined CPIC",
+            "A": "Wholesale Price Index (WPI)",
+            "B": "Consumer Price Index for Industrial Workers (CPI-IW)",
+            "C": "Consumer Price Index Combined (CPI-C)",
             "D": "GDP Deflator"
         },
         "answer": "C"
@@ -59,15 +58,15 @@
         "question": "The 'Concert Economy' concept is associated with:",
         "options": {
             "A": "Music industry economic contribution",
-            "B": "",
-            "C": "ollaborative economic models C Entertainment sector G",
-            "D": "P D Cultural events revenue generation"
+            "B": "Collaborative economic models",
+            "C": "Entertainment sector GDP",
+            "D": "Cultural events revenue generation"
         },
         "answer": "B"
     },
     {
         "id": 7,
-        "question": "What was India's real GDP growth rate in Q4 of 202324?",
+        "question": "What was India's real GDP growth rate in Q4 of 2023-24?",
         "options": {
             "A": "7.8%",
             "B": "8.2%",
@@ -89,18 +88,18 @@
     },
     {
         "id": 9,
-        "question": "The Gross Value",
+        "question": "The Gross Value Added (GVA) at basic prices differs from GDP at market prices by:",
         "options": {
-            "A": "dded GVA) at basic prices differs from GDP at market prices by: A Net indirect taxes",
+            "A": "Net indirect taxes",
             "B": "Subsidies only",
-            "C": "",
-            "D": "irect taxes D Transfer payments"
+            "C": "Direct taxes",
+            "D": "Transfer payments"
         },
         "answer": "A"
     },
     {
         "id": 10,
-        "question": "Which sector contributed most to India's GDP growth in 202324?",
+        "question": "Which sector contributed most to India's GDP growth in 2023-24?",
         "options": {
             "A": "Agriculture",
             "B": "Manufacturing",
@@ -113,10 +112,9 @@
         "id": 11,
         "question": "The term 'India's Economic Slowdown' primarily refers to the period:",
         "options": {
-            "A": "20082009",
-            "B": "20162020",
-            "C": "20202021",
-            "D": "20192020"
+            "A": "2008-2009",
+            "B": "2016-2020\fC) 2020-2021",
+            "D": "2019-2020"
         },
         "answer": "B"
     },
@@ -124,10 +122,10 @@
         "id": 12,
         "question": "Government expenditure as a percentage of GDP in India is approximately:",
         "options": {
-            "A": "1518%",
-            "B": "2025%",
-            "C": "2730%",
-            "D": "3540%"
+            "A": "15-18%",
+            "B": "20-25%",
+            "C": "27-30%",
+            "D": "35-40%"
         },
         "answer": "C"
     },
@@ -135,10 +133,10 @@
         "id": 13,
         "question": "The base year for calculating India's GDP is currently:",
         "options": {
-            "A": "200405",
-            "B": "201112",
-            "C": "201718",
-            "D": "201920"
+            "A": "2004-05",
+            "B": "2011-12",
+            "C": "2017-18",
+            "D": "2019-20"
         },
         "answer": "B"
     },
@@ -148,7 +146,7 @@
         "options": {
             "A": "Unemployment rate",
             "B": "Industrial production index",
-            "C": "PMI Purchasing Managers' Index)",
+            "C": "PMI (Purchasing Managers' Index)",
             "D": "All of the above"
         },
         "answer": "D"
@@ -159,14 +157,14 @@
         "options": {
             "A": "Maximum possible GDP growth",
             "B": "GDP at full employment level",
-            "C": "G",
-            "D": "P target set by government D Historical highest GDP"
+            "C": "GDP target set by government",
+            "D": "Historical highest GDP"
         },
         "answer": "B"
     },
     {
         "id": 16,
-        "question": "India's per capita income at current prices in 202324 was approximately:",
+        "question": "India's per capita income at current prices in 2023-24 was approximately:",
         "options": {
             "A": "\u20b91.25 lakh",
             "B": "\u20b91.56 lakh",
@@ -177,7 +175,7 @@
     },
     {
         "id": 17,
-        "question": "The Gross Fixed Capital Formation GFCF) as percentage of GDP indicates:",
+        "question": "The Gross Fixed Capital Formation (GFCF) as percentage of GDP indicates:",
         "options": {
             "A": "Investment rate in the economy",
             "B": "Savings rate",
@@ -190,9 +188,8 @@
         "id": 18,
         "question": "Which price index is used for inflation targeting by RBI?",
         "options": {
-            "A": "WPI",
-            "B": "",
-            "C": "PI Combined) C Core CPI",
+            "A": "WPI\fB) CPI (Combined)",
+            "C": "Core CPI",
             "D": "GDP Deflator"
         },
         "answer": "B"
@@ -201,10 +198,10 @@
         "id": 19,
         "question": "The Economic Survey is prepared by:",
         "options": {
-            "A": "Reserve",
-            "B": "ank of India B Planning",
-            "C": "ommission C Economic",
-            "D": "ivision, Ministry of Finance D NITI Aayog"
+            "A": "Reserve Bank of India",
+            "B": "Planning Commission",
+            "C": "Economic Division, Ministry of Finance",
+            "D": "NITI Aayog"
         },
         "answer": "C"
     },
@@ -235,8 +232,8 @@
         "question": "Which committee recommended the current method of GDP calculation in India?",
         "options": {
             "A": "Rangarajan Committee",
-            "B": "Urjit Patel",
-            "C": "ommittee C Suresh Tendulkar Committee",
+            "B": "Urjit Patel Committee",
+            "C": "Suresh Tendulkar Committee",
             "D": "Central Statistics Office Committee"
         },
         "answer": "A"
@@ -256,16 +253,16 @@
         "id": 24,
         "question": "India's Gross Domestic Savings rate is approximately:",
         "options": {
-            "A": "2830%",
-            "B": "3032%",
-            "C": "2527%",
-            "D": "3537%"
+            "A": "28-30%",
+            "B": "30-32%",
+            "C": "25-27%",
+            "D": "35-37%"
         },
         "answer": "A"
     },
     {
         "id": 25,
-        "question": "The Purchasing Power Parity PPP) adjusted GDP of India ranks:",
+        "question": "The Purchasing Power Parity (PPP) adjusted GDP of India ranks:",
         "options": {
             "A": "2nd globally",
             "B": "3rd globally",
@@ -279,9 +276,9 @@
         "question": "Which factor does NOT affect the GDP deflator?",
         "options": {
             "A": "Changes in prices of goods and services",
-            "B": "",
-            "C": "hanges in composition of G",
-            "D": "P C Import price changes D Population growth"
+            "B": "Changes in composition of GDP",
+            "C": "Import price changes",
+            "D": "Population growth"
         },
         "answer": "D"
     },
@@ -301,9 +298,9 @@
         "question": "Real GDP is calculated by:",
         "options": {
             "A": "Nominal GDP / GDP Deflator",
-            "B": "Nominal GDP GDP Deflator",
-            "C": "Nominal G",
-            "D": "P GDP Deflator D Nominal GDP GDP Deflator"
+            "B": "Nominal GDP \u00d7 GDP Deflator",
+            "C": "Nominal GDP + GDP Deflator",
+            "D": "Nominal GDP - GDP Deflator"
         },
         "answer": "A"
     },
@@ -311,9 +308,9 @@
         "id": 29,
         "question": "The Quarterly GDP estimates in India are released by:",
         "options": {
-            "A": "R",
-            "B": "I B Ministry of Finance",
-            "C": "National Statistical Office NSO",
+            "A": "RBI",
+            "B": "Ministry of Finance",
+            "C": "National Statistical Office (NSO)",
             "D": "NITI Aayog"
         },
         "answer": "C"
@@ -346,14 +343,14 @@
         "options": {
             "A": "Improved significantly",
             "B": "Remained stagnant",
-            "C": "",
-            "D": "eclined over years D Not been measured"
+            "C": "Declined over years",
+            "D": "Not been measured"
         },
         "answer": "C"
     },
     {
         "id": 33,
-        "question": "The Gross National Income GNI) includes:",
+        "question": "The Gross National Income (GNI) includes:",
         "options": {
             "A": "Only domestic production",
             "B": "Domestic production + net income from abroad",
@@ -366,9 +363,9 @@
         "id": 34,
         "question": "Which price index has the highest weightage for food items?",
         "options": {
-            "A": "CPIRural",
-            "B": "",
-            "C": "PIUrban C WPI",
+            "A": "CPI-Rural",
+            "B": "CPI-Urban",
+            "C": "WPI",
             "D": "All have equal weightage"
         },
         "answer": "A"
@@ -386,7 +383,7 @@
     },
     {
         "id": 36,
-        "question": "India's rank in Ease of Doing Business 2020) was:",
+        "question": "India's rank in Ease of Doing Business (2020) was:",
         "options": {
             "A": "63rd",
             "B": "77th",
@@ -400,8 +397,8 @@
         "question": "The concept of 'Circular Economy' emphasizes:",
         "options": {
             "A": "Waste reduction and resource efficiency",
-            "B": "",
-            "C": "yclical economic policies C Rotating industrial sectors",
+            "B": "Cyclical economic policies",
+            "C": "Rotating industrial sectors",
             "D": "Regional economic integration"
         },
         "answer": "A"
@@ -430,12 +427,12 @@
     },
     {
         "id": 40,
-        "question": "India's current account deficit in 202324 was approximately:",
+        "question": "India's current account deficit in 2023-24 was approximately:",
         "options": {
             "A": "0.7% of GDP",
             "B": "1.2% of GDP",
-            "C": "2.1% of G",
-            "D": "P D 2.8% of GDP"
+            "C": "2.1% of GDP",
+            "D": "2.8% of GDP"
         },
         "answer": "A"
     },
@@ -445,8 +442,8 @@
         "options": {
             "A": "Economic recession",
             "B": "Planned reduction of resource use",
-            "C": "",
-            "D": "ecline in population D Industrial shutdown"
+            "C": "Decline in population",
+            "D": "Industrial shutdown"
         },
         "answer": "B"
     },
@@ -454,8 +451,8 @@
         "id": 42,
         "question": "Which institution publishes the World Economic Outlook?",
         "options": {
-            "A": "World",
-            "B": "ank B International Monetary Fund",
+            "A": "World Bank",
+            "B": "International Monetary Fund",
             "C": "World Trade Organization",
             "D": "United Nations"
         },
@@ -499,7 +496,7 @@
         "question": "Which economic indicator is released monthly?",
         "options": {
             "A": "GDP",
-            "B": "Index of Industrial Production IIP",
+            "B": "Index of Industrial Production (IIP)",
             "C": "National Income",
             "D": "Gross Capital Formation"
         },
@@ -507,10 +504,10 @@
     },
     {
         "id": 47,
-        "question": "The concept of '",
+        "question": "The concept of 'Atmanirbhar Bharat' emphasizes:",
         "options": {
-            "A": "tmanirbhar",
-            "B": "harat' emphasizes: A Export promotion B Import substitution",
+            "A": "Export promotion",
+            "B": "Import substitution",
             "C": "Self-reliance and resilience",
             "D": "Foreign investment attraction"
         },
@@ -551,29 +548,29 @@
     },
     {
         "id": 51,
-        "question": "The Net National Product NNP) is calculated as:",
+        "question": "The Net National Product (NNP) is calculated as:",
         "options": {
-            "A": "GNP Depreciation",
-            "B": "GDP Depreciation",
-            "C": "GNP",
-            "D": "epreciation D GDP Net factor income"
+            "A": "GNP - Depreciation",
+            "B": "GDP - Depreciation",
+            "C": "GNP + Depreciation",
+            "D": "GDP + Net factor income"
         },
         "answer": "A"
     },
     {
         "id": 52,
-        "question": "India's economic survey projects growth rate for 202425 as:",
+        "question": "India's economic survey projects growth rate for 2024-25 as:",
         "options": {
-            "A": "6.57.0%",
-            "B": "7.07.5%",
-            "C": "6.06.5%",
-            "D": "7.58.0%"
+            "A": "6.5-7.0%",
+            "B": "7.0-7.5%",
+            "C": "6.0-6.5%",
+            "D": "7.5-8.0%"
         },
         "answer": "A"
     },
     {
         "id": 53,
-        "question": "The Multidimensional Poverty Index MPI) considers:",
+        "question": "The Multidimensional Poverty Index (MPI) considers:",
         "options": {
             "A": "Income only",
             "B": "Health, education, and living standards",
@@ -617,11 +614,11 @@
     },
     {
         "id": 57,
-        "question": "Which committee recommended the establishment of N",
+        "question": "Which committee recommended the establishment of NABARD?",
         "options": {
-            "A": "",
-            "B": "ARD? A Narasimham",
-            "C": "ommittee B Shivaraman Committee C Kelkar Committee",
+            "A": "Narasimham Committee",
+            "B": "Shivaraman Committee",
+            "C": "Kelkar Committee",
             "D": "Rangarajan Committee"
         },
         "answer": "B"
@@ -630,8 +627,8 @@
         "id": 58,
         "question": "The repo rate is the rate at which:",
         "options": {
-            "A": "",
-            "B": "anks lend to RBI B RBI lends to banks",
+            "A": "Banks lend to RBI",
+            "B": "RBI lends to banks",
             "C": "Banks lend to customers",
             "D": "Customers deposit in banks"
         },
@@ -639,18 +636,18 @@
     },
     {
         "id": 59,
-        "question": "Urban Cooperative Banks UCBs are regulated by:",
+        "question": "Urban Cooperative Banks (UCBs) are regulated by:",
         "options": {
-            "A": "R",
-            "B": "I only B State governments only",
-            "C": "Both RBI and state governmentsSection 2 Money and Banking 70 Questions)",
+            "A": "RBI only",
+            "B": "State governments only",
+            "C": "Both RBI and state governments",
             "D": "Central government only"
         },
         "answer": "C"
     },
     {
         "id": 60,
-        "question": "The current Cash Reserve Ratio CRR) maintained by banks is:",
+        "question": "The current Cash Reserve Ratio (CRR) maintained by banks is:",
         "options": {
             "A": "3%",
             "B": "4%",
@@ -661,12 +658,12 @@
     },
     {
         "id": 61,
-        "question": "Digital rupee (e \u20b9 ) is India's:",
+        "question": "Digital rupee (e\u20b9) is India's:",
         "options": {
             "A": "Cryptocurrency",
-            "B": "",
-            "C": "entral Bank",
-            "D": "igital Currency CBDC C Digital payment app D Online banking system"
+            "B": "Central Bank Digital Currency (CBDC)",
+            "C": "Digital payment app",
+            "D": "Online banking system"
         },
         "answer": "B"
     },
@@ -683,7 +680,7 @@
     },
     {
         "id": 63,
-        "question": "The Marginal Standing Facility MSF) rate is typically:",
+        "question": "The Marginal Standing Facility (MSF) rate is typically:",
         "options": {
             "A": "25 basis points above repo rate",
             "B": "50 basis points above repo rate",
@@ -696,18 +693,18 @@
         "id": 64,
         "question": "Which bank is known as the 'Banker's Bank'?",
         "options": {
-            "A": "State",
-            "B": "ank of India B Reserve Bank of India",
-            "C": "NABAR",
-            "D": "D SIDBI"
+            "A": "State Bank of India",
+            "B": "Reserve Bank of India",
+            "C": "NABARD",
+            "D": "SIDBI"
         },
         "answer": "B"
     },
     {
         "id": 65,
-        "question": "The Banking Regulation",
+        "question": "The Banking Regulation Act was passed in:",
         "options": {
-            "A": "ct was passed in: A 1947",
+            "A": "1947",
             "B": "1949",
             "C": "1950",
             "D": "1969"
@@ -718,16 +715,16 @@
         "id": 66,
         "question": "NBFC sector's asset size is approximately what percentage of banking sector?",
         "options": {
-            "A": "1518%",
-            "B": "2025%",
-            "C": "3035%",
-            "D": "4045%"
+            "A": "15-18%",
+            "B": "20-25%",
+            "C": "30-35%",
+            "D": "40-45%"
         },
         "answer": "A"
     },
     {
         "id": 67,
-        "question": "The Statutory Liquidity Ratio SLR) currently stands at:",
+        "question": "The Statutory Liquidity Ratio (SLR) currently stands at:",
         "options": {
             "A": "18%",
             "B": "19.5%",
@@ -740,18 +737,18 @@
         "id": 68,
         "question": "Which institution regulates microfinance institutions?",
         "options": {
-            "A": "SE",
-            "B": "I B RBI",
-            "C": "NABAR",
-            "D": "D Ministry of Finance"
+            "A": "SEBI",
+            "B": "RBI",
+            "C": "NABARD",
+            "D": "Ministry of Finance"
         },
         "answer": "B"
     },
     {
         "id": 69,
-        "question": "The Payments and Settlement Systems",
+        "question": "The Payments and Settlement Systems Act was enacted in:",
         "options": {
-            "A": "ct was enacted in: A 2005",
+            "A": "2005",
             "B": "2007",
             "C": "2009",
             "D": "2011"
@@ -782,12 +779,12 @@
     },
     {
         "id": 72,
-        "question": "Jan",
+        "question": "Jan Aushadhi - Common Service Center initiative is related to:",
         "options": {
-            "A": "ushadhi - Common Service Center initiative is related to: A Financial inclusion",
+            "A": "Financial inclusion",
             "B": "Healthcare delivery",
-            "C": "",
-            "D": "igital literacy D Agricultural services"
+            "C": "Digital literacy",
+            "D": "Agricultural services"
         },
         "answer": "B"
     },
@@ -795,8 +792,7 @@
         "id": 73,
         "question": "The Insolvency and Bankruptcy Code was implemented in:",
         "options": {
-            "A": "2015",
-            "B": "2016",
+            "A": "2015\fB) 2016",
             "C": "2017",
             "D": "2018"
         },
@@ -806,10 +802,10 @@
         "id": 74,
         "question": "Which regulatory body oversees credit rating agencies?",
         "options": {
-            "A": "R",
-            "B": "I B SEBI",
-            "C": "IR",
-            "D": "AI D NPCI"
+            "A": "RBI",
+            "B": "SEBI",
+            "C": "IRDAI",
+            "D": "NPCI"
         },
         "answer": "B"
     },
@@ -826,12 +822,12 @@
     },
     {
         "id": 76,
-        "question": "F",
+        "question": "FASTag uses which technology?",
         "options": {
-            "A": "STag uses which technology? A QR Code",
-            "B": "NF",
-            "C": "C RFI",
-            "D": "D Bluetooth"
+            "A": "QR Code",
+            "B": "NFC",
+            "C": "RFID",
+            "D": "Bluetooth"
         },
         "answer": "C"
     },
@@ -859,9 +855,9 @@
     },
     {
         "id": 79,
-        "question": "The National Electronic Funds Transfer NEFT) operates:",
+        "question": "The National Electronic Funds Transfer (NEFT) operates:",
         "options": {
-            "A": "247 throughout the year",
+            "A": "24x7 throughout the year",
             "B": "Business hours only",
             "C": "24 hours on weekdays",
             "D": "Limited weekend hours"
@@ -870,7 +866,7 @@
     },
     {
         "id": 80,
-        "question": "Which institution manages the Core Banking Solution CBS?",
+        "question": "Which institution manages the Core Banking Solution (CBS)?",
         "options": {
             "A": "Individual banks",
             "B": "RBI",
@@ -892,10 +888,10 @@
     },
     {
         "id": 82,
-        "question": "",
+        "question": "Account Aggregator framework is regulated by:",
         "options": {
-            "A": "ccount Aggregator framework is regulated by: A R",
-            "B": "I B SEBI",
+            "A": "RBI",
+            "B": "SEBI",
             "C": "Both RBI and SEBI",
             "D": "IRDAI"
         },
@@ -903,7 +899,7 @@
     },
     {
         "id": 83,
-        "question": "The Bharatiya Reserve Bank Note Mudran BRBNM) was established in:",
+        "question": "The Bharatiya Reserve Bank Note Mudran (BRBNM) was established in:",
         "options": {
             "A": "1995",
             "B": "1996",
@@ -914,12 +910,12 @@
     },
     {
         "id": 84,
-        "question": "Which bank was the first to introduce",
+        "question": "Which bank was the first to introduce ATM services in India?",
         "options": {
-            "A": "TM services in India? A State",
-            "B": "ank of India B I",
-            "C": "ICI Bank C H",
-            "D": "FC Bank D Hong Kong and Shanghai Banking Corporation"
+            "A": "State Bank of India",
+            "B": "ICICI Bank",
+            "C": "HDFC Bank",
+            "D": "Hong Kong and Shanghai Banking Corporation"
         },
         "answer": "D"
     },
@@ -927,10 +923,10 @@
         "id": 85,
         "question": "The Credit Guarantee Fund Trust for Micro and Small Enterprises is managed by:",
         "options": {
-            "A": "R",
-            "B": "I B SIDBI",
-            "C": "NABAR",
-            "D": "D SBI"
+            "A": "RBI",
+            "B": "SIDBI",
+            "C": "NABARD",
+            "D": "SBI"
         },
         "answer": "B"
     },
@@ -938,18 +934,7 @@
         "id": 86,
         "question": "What is the minimum capital requirement for small finance banks?",
         "options": {
-            "A": "\u20b9100 crore",
-            "B": "\u20b9200 crore",
-            "C": "\u20b9300 crore",
-            "D": "\u20b9500 crore"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 87,
-        "question": "The Securitisation and Reconstruction of Financial",
-        "options": {
-            "A": "ssets and Enforcement of Security Interest Act SARFAESI) was enacted in: A 2000",
+            "A": "2000",
             "B": "2002",
             "C": "2004",
             "D": "2006"
@@ -960,9 +945,9 @@
         "id": 88,
         "question": "Which institution issues Letter of Credit for international trade?",
         "options": {
-            "A": "Export-Import",
-            "B": "ank B",
-            "C": "ommercial banks C RBI",
+            "A": "Export-Import Bank",
+            "B": "Commercial banks",
+            "C": "RBI",
             "D": "Ministry of External Affairs"
         },
         "answer": "B"
@@ -983,18 +968,18 @@
         "question": "Base rate system was replaced by:",
         "options": {
             "A": "Prime Lending Rate",
-            "B": "Marginal",
-            "C": "ost of Funds based Lending Rate MCLR C Repo linked rates",
+            "B": "Marginal Cost of Funds based Lending Rate (MCLR)",
+            "C": "Repo linked rates",
             "D": "Market determined rates"
         },
         "answer": "B"
     },
     {
         "id": 91,
-        "question": "The Financial Stability and Development Council FSDC) is headed by:",
+        "question": "The Financial Stability and Development Council (FSDC) is headed by:",
         "options": {
-            "A": "Governor of R",
-            "B": "I B Finance Minister",
+            "A": "Governor of RBI",
+            "B": "Finance Minister",
             "C": "Prime Minister",
             "D": "Cabinet Secretary"
         },
@@ -1002,18 +987,18 @@
     },
     {
         "id": 92,
-        "question": "Which organization manages the Real Time Gross Settlement RTGS) system?",
+        "question": "Which organization manages the Real Time Gross Settlement (RTGS) system?",
         "options": {
-            "A": "R",
-            "B": "I B NP",
-            "C": "I C SBI",
+            "A": "RBI",
+            "B": "NPCI",
+            "C": "SBI",
             "D": "Ministry of Finance"
         },
         "answer": "A"
     },
     {
         "id": 93,
-        "question": "The concept of 'Know Your Customer' KYC) is primarily aimed at:",
+        "question": "The concept of 'Know Your Customer' (KYC) is primarily aimed at:",
         "options": {
             "A": "Customer satisfaction",
             "B": "Preventing money laundering",
@@ -1035,12 +1020,12 @@
     },
     {
         "id": 95,
-        "question": "The Micro Units Development and Refinance",
+        "question": "The Micro Units Development and Refinance Agency (MUDRA) Bank is a subsidiary of:",
         "options": {
-            "A": "gency MUDRA",
-            "B": "ank is a subsidiary of: A RBI B SBI",
-            "C": "NABAR",
-            "D": "D SIDBI"
+            "A": "RBI",
+            "B": "SBI",
+            "C": "NABARD",
+            "D": "SIDBI"
         },
         "answer": "D"
     },
@@ -1048,18 +1033,18 @@
         "id": 96,
         "question": "Which act governs the functioning of cooperative banks?",
         "options": {
-            "A": "",
-            "B": "anking Regulation Act B",
-            "C": "ooperative Societies Act C Both A and B",
+            "A": "Banking Regulation Act",
+            "B": "Cooperative Societies Act",
+            "C": "Both A and B",
             "D": "RBI Act"
         },
         "answer": "C"
     },
     {
         "id": 97,
-        "question": "The prompt corrective action PC",
+        "question": "The prompt corrective action (PCA) framework is applicable to:",
         "options": {
-            "A": ") framework is applicable to: A All banks",
+            "A": "All banks",
             "B": "Public sector banks only",
             "C": "Private sector banks only",
             "D": "Weak banks with poor financial health"
@@ -1079,7 +1064,7 @@
     },
     {
         "id": 99,
-        "question": "The Banking Codes and Standards Board of India BCSBI) was set up in:",
+        "question": "The Banking Codes and Standards Board of India (BCSBI) was set up in:",
         "options": {
             "A": "2005",
             "B": "2006",
@@ -1090,20 +1075,20 @@
     },
     {
         "id": 100,
-        "question": "Bharat Bill Payment System BBPS) is operated by:",
+        "question": "Bharat Bill Payment System (BBPS) is operated by:",
         "options": {
-            "A": "R",
-            "B": "I B NP",
-            "C": "IC Individual banks",
+            "A": "RBI",
+            "B": "NPCI",
+            "C": "Individual banks",
             "D": "Government of India"
         },
         "answer": "B"
     },
     {
         "id": 101,
-        "question": "The minimum capital adequacy ratio C",
+        "question": "The minimum capital adequacy ratio (CAR) required for Indian banks is:",
         "options": {
-            "A": "R) required for Indian banks is: A 8%",
+            "A": "8%",
             "B": "9%",
             "C": "10%",
             "D": "11.5%"
@@ -1114,8 +1099,8 @@
         "id": 102,
         "question": "Which institution provides credit guarantee for MSMEs?",
         "options": {
-            "A": "SID",
-            "B": "I B NABARD",
+            "A": "SIDBI",
+            "B": "NABARD",
             "C": "Credit Guarantee Fund Trust for MSEs",
             "D": "All of the above"
         },
@@ -1123,12 +1108,12 @@
     },
     {
         "id": 103,
-        "question": "The Reserve Bank Information Technology ReBIT) is:",
+        "question": "The Reserve Bank Information Technology (ReBIT) is:",
         "options": {
-            "A": "R",
-            "B": "I's IT subsidiary B Technology advisory body",
-            "C": "",
-            "D": "igital payment platform D Banking software"
+            "A": "RBI's IT subsidiary",
+            "B": "Technology advisory body",
+            "C": "Digital payment platform",
+            "D": "Banking software"
         },
         "answer": "A"
     },
@@ -1167,10 +1152,9 @@
     },
     {
         "id": 107,
-        "question": "Which payment system allows instant 247 fund transfer?",
+        "question": "Which payment system allows instant 24x7 fund transfer?",
         "options": {
-            "A": "NEFT",
-            "B": "RTGS",
+            "A": "NEFT\fB) RTGS",
             "C": "IMPS",
             "D": "All of the above"
         },
@@ -1178,7 +1162,7 @@
     },
     {
         "id": 108,
-        "question": "The Deposit Insurance and Credit Guarantee Corporation DICGC) is a subsidiary of:",
+        "question": "The Deposit Insurance and Credit Guarantee Corporation (DICGC) is a subsidiary of:",
         "options": {
             "A": "Government of India",
             "B": "RBI",
@@ -1200,7 +1184,7 @@
     },
     {
         "id": 110,
-        "question": "The Unified Payments Interface UPI 2.0 introduced:",
+        "question": "The Unified Payments Interface (UPI) 2.0 introduced:",
         "options": {
             "A": "Overdraft facility",
             "B": "Invoice payment feature",
@@ -1211,7 +1195,7 @@
     },
     {
         "id": 111,
-        "question": "Regional Rural Banks RRBs are sponsored by:",
+        "question": "Regional Rural Banks (RRBs) are sponsored by:",
         "options": {
             "A": "Commercial banks",
             "B": "State governments",
@@ -1222,7 +1206,7 @@
     },
     {
         "id": 112,
-        "question": "The Credit Information Bureau India Limited CIBIL) maintains records for:",
+        "question": "The Credit Information Bureau (India) Limited (CIBIL) maintains records for:",
         "options": {
             "A": "3 years",
             "B": "5 years",
@@ -1233,10 +1217,10 @@
     },
     {
         "id": 113,
-        "question": "Which institution regulates Non-Banking Financial Companies NBFCs)?",
+        "question": "Which institution regulates Non-Banking Financial Companies (NBFCs)?",
         "options": {
-            "A": "SE",
-            "B": "I B RBI",
+            "A": "SEBI",
+            "B": "RBI",
             "C": "Ministry of Finance",
             "D": "IRDAI"
         },
@@ -1244,10 +1228,10 @@
     },
     {
         "id": 114,
-        "question": "The Financial Intelligence Unit FIUIND) reports to:",
+        "question": "The Financial Intelligence Unit (FIU-IND) reports to:",
         "options": {
-            "A": "R",
-            "B": "I B Ministry of Home Affairs",
+            "A": "RBI",
+            "B": "Ministry of Home Affairs",
             "C": "Ministry of Finance",
             "D": "Prime Minister's Office"
         },
@@ -1257,16 +1241,16 @@
         "id": 115,
         "question": "Bharat QR code was launched jointly by:",
         "options": {
-            "A": "R",
-            "B": "I and banks B NP",
-            "C": "I and card networks C Government and RBI",
+            "A": "RBI and banks",
+            "B": "NPCI and card networks",
+            "C": "Government and RBI",
             "D": "Banks and fintech companies"
         },
         "answer": "B"
     },
     {
         "id": 116,
-        "question": "The Goods and Services Tax Network GSTN) payment gateway is managed by:",
+        "question": "The Goods and Services Tax Network (GSTN) payment gateway is managed by:",
         "options": {
             "A": "Government of India",
             "B": "RBI",
@@ -1279,8 +1263,8 @@
         "id": 117,
         "question": "Which bank introduced the first credit card in India?",
         "options": {
-            "A": "Central",
-            "B": "ank of India B State Bank of India",
+            "A": "Central Bank of India",
+            "B": "State Bank of India",
             "C": "ICICI Bank",
             "D": "HDFC Bank"
         },
@@ -1290,8 +1274,8 @@
         "id": 118,
         "question": "The Banking Ombudsman Scheme is administered by:",
         "options": {
-            "A": "Indian",
-            "B": "anks' Association B RBI",
+            "A": "Indian Banks' Association",
+            "B": "RBI",
             "C": "Ministry of Finance",
             "D": "Consumer courts"
         },
@@ -1321,9 +1305,9 @@
     },
     {
         "id": 121,
-        "question": "",
+        "question": "Aadhaar Enabled Payment System (AePS) allows:",
         "options": {
-            "A": "adhaar Enabled Payment System AePS) allows: A Cash withdrawal",
+            "A": "Cash withdrawal",
             "B": "Balance inquiry",
             "C": "Fund transfer",
             "D": "All of the above"
@@ -1332,7 +1316,7 @@
     },
     {
         "id": 122,
-        "question": "The Liquidity Coverage Ratio LCR) under Basel III should be minimum:",
+        "question": "The Liquidity Coverage Ratio (LCR) under Basel III should be minimum:",
         "options": {
             "A": "80%",
             "B": "90%",
@@ -1345,16 +1329,16 @@
         "id": 123,
         "question": "Which institution provides crop insurance to farmers?",
         "options": {
-            "A": "NA",
-            "B": "ARD B Agricultural Insurance",
-            "C": "ompany of India C General insurance companies",
+            "A": "NABARD",
+            "B": "Agricultural Insurance Company of India",
+            "C": "General insurance companies",
             "D": "All of the above"
         },
         "answer": "D"
     },
     {
         "id": 124,
-        "question": "The concept of Central Bank Digital Currency CBDC) is being tested in:",
+        "question": "The concept of Central Bank Digital Currency (CBDC) is being tested in:",
         "options": {
             "A": "Wholesale segment only",
             "B": "Retail segment only",
@@ -1365,10 +1349,10 @@
     },
     {
         "id": 125,
-        "question": "Pre-paid Payment Instruments PPIs are regulated by:",
+        "question": "Pre-paid Payment Instruments (PPIs) are regulated by:",
         "options": {
-            "A": "SE",
-            "B": "I B RBI",
+            "A": "SEBI",
+            "B": "RBI",
             "C": "NPCI",
             "D": "Ministry of Electronics and IT"
         },
@@ -1387,11 +1371,11 @@
     },
     {
         "id": 127,
-        "question": "The Goods and Services Tax GST) was implemented on:",
+        "question": "The Goods and Services Tax (GST) was implemented on:",
         "options": {
             "A": "July 1, 2016",
             "B": "July 1, 2017",
-            "C": "April 1, 2017Section 3 Budget & Taxation 30 Questions)",
+            "C": "April 1, 2017",
             "D": "January 1, 2017"
         },
         "answer": "B"
@@ -1414,18 +1398,18 @@
             "A": "10%",
             "B": "15%",
             "C": "20%",
-            "D": "Nil up to \u20b9 1 lakh"
+            "D": "Nil up to \u20b91 lakh"
         },
         "answer": "A"
     },
     {
         "id": 130,
-        "question": "The fiscal deficit target for 202425 is:",
+        "question": "The fiscal deficit target for 2024-25 is:",
         "options": {
             "A": "4.5% of GDP",
             "B": "5.1% of GDP",
-            "C": "5.9% of G",
-            "D": "P D 6.2% of GDP"
+            "C": "5.9% of GDP",
+            "D": "6.2% of GDP"
         },
         "answer": "B"
     },
@@ -1434,8 +1418,8 @@
         "question": "Direct tax collections include:",
         "options": {
             "A": "Income tax and corporate tax",
-            "B": "",
-            "C": "ustoms duty C Excise duty",
+            "B": "Customs duty",
+            "C": "Excise duty",
             "D": "Service tax"
         },
         "answer": "A"
@@ -1486,9 +1470,9 @@
     },
     {
         "id": 136,
-        "question": "The Minimum",
+        "question": "The Minimum Alternate Tax (MAT) rate for companies is:",
         "options": {
-            "A": "lternate Tax MAT) rate for companies is: A 15%",
+            "A": "15%",
             "B": "18.5%",
             "C": "21%",
             "D": "25%"
@@ -1500,8 +1484,8 @@
         "question": "Which tax is levied by the central government but collected by states?",
         "options": {
             "A": "Income tax",
-            "B": "",
-            "C": "orporate tax C Stamp duty",
+            "B": "Corporate tax",
+            "C": "Stamp duty",
             "D": "Service tax"
         },
         "answer": "C"
@@ -1541,7 +1525,7 @@
     },
     {
         "id": 141,
-        "question": "Input Tax Credit ITC) under GST can be claimed for:",
+        "question": "Input Tax Credit (ITC) under GST can be claimed for:",
         "options": {
             "A": "Capital goods only",
             "B": "Input services only",
@@ -1552,18 +1536,18 @@
     },
     {
         "id": 142,
-        "question": "The National Food Security",
+        "question": "The National Food Security Act allocation in budget is under:",
         "options": {
-            "A": "ct allocation in budget is under: A Revenue expenditure",
-            "B": "",
-            "C": "apital expenditure C Transfer payments",
+            "A": "Revenue expenditure",
+            "B": "Capital expenditure",
+            "C": "Transfer payments",
             "D": "Loans and advances"
         },
         "answer": "A"
     },
     {
         "id": 143,
-        "question": "Dividend Distribution Tax DDT) was:",
+        "question": "Dividend Distribution Tax (DDT) was:",
         "options": {
             "A": "Abolished in 2020",
             "B": "Reduced to 15%",
@@ -1596,9 +1580,9 @@
     },
     {
         "id": 146,
-        "question": "The",
+        "question": "The Angel Tax provisions apply to:",
         "options": {
-            "A": "ngel Tax provisions apply to: A All companies",
+            "A": "All companies",
             "B": "Unlisted companies only",
             "C": "Listed companies only",
             "D": "Startups specifically"
@@ -1609,32 +1593,21 @@
         "id": 147,
         "question": "Primary deficit is calculated as:",
         "options": {
-            "A": "Fiscal deficit - Interest payments",
-            "B": "Revenue deficit - Interest payments",
-            "C": "Total expenditure - Total receipts",
-            "D": "Capital expenditure - Capital receipts"
-        },
-        "answer": "A"
-    },
-    {
-        "id": 148,
-        "question": "The Long Term Capital Gains LTCG) tax on equity shares was reintroduced in:",
-        "options": {
-            "A": "201718",
-            "B": "201819",
-            "C": "201920",
-            "D": "202021"
+            "A": "2017-18",
+            "B": "2018-19",
+            "C": "2019-20",
+            "D": "2020-21"
         },
         "answer": "A"
     },
     {
         "id": 149,
-        "question": "State GST SGST) and Central GST CGST) together are equivalent to:",
+        "question": "State GST (SGST) and Central GST (CGST) together are equivalent to:",
         "options": {
             "A": "Service tax",
             "B": "VAT",
             "C": "Excise duty",
-            "D": "Integrated GST IGST"
+            "D": "Integrated GST (IGST)"
         },
         "answer": "D"
     },
@@ -1644,8 +1617,8 @@
         "options": {
             "A": "Revenue and capital expenditure",
             "B": "Plan and non-plan expenditure",
-            "C": "",
-            "D": "evelopment and non-development expenditure D All of the above"
+            "C": "Development and non-development expenditure",
+            "D": "All of the above"
         },
         "answer": "A"
     },
@@ -1662,9 +1635,9 @@
     },
     {
         "id": 152,
-        "question": "The Fiscal Responsibility and Budget Management FRBM",
+        "question": "The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in:",
         "options": {
-            "A": "ct was enacted in: A 2003",
+            "A": "2003",
             "B": "2004",
             "C": "2005",
             "D": "2006"
@@ -1686,17 +1659,6 @@
         "id": 154,
         "question": "The Union Excise Duty was subsumed under:",
         "options": {
-            "A": "GST",
-            "B": "Income tax",
-            "C": "Customs duty",
-            "D": "Service tax"
-        },
-        "answer": "A"
-    },
-    {
-        "id": 155,
-        "question": "Budget allocation for rural development in 202425 is approximately:",
-        "options": {
             "A": "\u20b91.5 lakh crore",
             "B": "\u20b92.0 lakh crore",
             "C": "\u20b92.5 lakh crore",
@@ -1706,18 +1668,18 @@
     },
     {
         "id": 156,
-        "question": "India's current account deficit in 202324 was:",
+        "question": "India's current account deficit in 2023-24 was:",
         "options": {
             "A": "0.7% of GDP",
             "B": "1.2% of GDP",
-            "C": "2.1% of G",
-            "D": "P D 2.8% of GDP"
+            "C": "2.1% of GDP",
+            "D": "2.8% of GDP"
         },
         "answer": "A"
     },
     {
         "id": 157,
-        "question": "The World Trade Organization WTO) was established in:",
+        "question": "The World Trade Organization (WTO) was established in:",
         "options": {
             "A": "1994",
             "B": "1995",
@@ -1731,15 +1693,15 @@
         "question": "India's largest trading partner is:",
         "options": {
             "A": "USA",
-            "B": "",
-            "C": "hina C UAE",
+            "B": "China",
+            "C": "UAE",
             "D": "Saudi Arabia"
         },
         "answer": "B"
     },
     {
         "id": 159,
-        "question": "The International Monetary Fund IMF) has how many member countries?",
+        "question": "The International Monetary Fund (IMF) has how many member countries?",
         "options": {
             "A": "189",
             "B": "190",
@@ -1752,8 +1714,8 @@
         "id": 160,
         "question": "BRICS New Development Bank is headquartered in:",
         "options": {
-            "A": "",
-            "B": "eijing B Mumbai",
+            "A": "Beijing",
+            "B": "Mumbai",
             "C": "Shanghai",
             "D": "New Delhi"
         },
@@ -1765,17 +1727,17 @@
         "options": {
             "A": "$600 billion",
             "B": "$650 billion",
-            "C": "$700 billionSection 4 External Sector & International Economic Organisation 55 Questions)",
+            "C": "$700 billion",
             "D": "$750 billion"
         },
         "answer": "B"
     },
     {
         "id": 162,
-        "question": "The",
+        "question": "The Asian Infrastructure Investment Bank (AIIB) was established in:",
         "options": {
-            "A": "sian Infrastructure Investment",
-            "B": "ank AIIB) was established in: A 2014 B 2015",
+            "A": "2014",
+            "B": "2015",
             "C": "2016",
             "D": "2017"
         },
@@ -1805,7 +1767,7 @@
     },
     {
         "id": 165,
-        "question": "Foreign Direct Investment FDI) inflows to India in 202324 were approximately:",
+        "question": "Foreign Direct Investment (FDI) inflows to India in 2023-24 were approximately:",
         "options": {
             "A": "$65 billion",
             "B": "$71 billion",
@@ -1827,7 +1789,7 @@
     },
     {
         "id": 167,
-        "question": "India's merchandise trade deficit in 202324 was approximately:",
+        "question": "India's merchandise trade deficit in 2023-24 was approximately:",
         "options": {
             "A": "$220 billion",
             "B": "$240 billion",
@@ -1849,7 +1811,7 @@
     },
     {
         "id": 169,
-        "question": "Regional Comprehensive Economic Partnership RCEP) includes:",
+        "question": "Regional Comprehensive Economic Partnership (RCEP) includes:",
         "options": {
             "A": "15 countries",
             "B": "16 countries",
@@ -1860,7 +1822,7 @@
     },
     {
         "id": 170,
-        "question": "India's services exports in 202324 were approximately:",
+        "question": "India's services exports in 2023-24 were approximately:",
         "options": {
             "A": "$320 billion",
             "B": "$340 billion",
@@ -1871,7 +1833,7 @@
     },
     {
         "id": 171,
-        "question": "The Most Favoured Nation MFN) principle is associated with:",
+        "question": "The Most Favoured Nation (MFN) principle is associated with:",
         "options": {
             "A": "IMF",
             "B": "World Bank",
@@ -1893,7 +1855,7 @@
     },
     {
         "id": 173,
-        "question": "The Shanghai Cooperation Organisation SCO) was established in:",
+        "question": "The Shanghai Cooperation Organisation (SCO) was established in:",
         "options": {
             "A": "1999",
             "B": "2001",
@@ -1904,7 +1866,7 @@
     },
     {
         "id": 174,
-        "question": "Foreign Portfolio Investment FPI) limit in government securities is:",
+        "question": "Foreign Portfolio Investment (FPI) limit in government securities is:",
         "options": {
             "A": "2% of outstanding stock",
             "B": "4% of outstanding stock",
@@ -1915,12 +1877,12 @@
     },
     {
         "id": 175,
-        "question": "The Trans-Pacific Partnership TPP) is now known as:",
+        "question": "The Trans-Pacific Partnership (TPP) is now known as:",
         "options": {
             "A": "RCEP",
-            "B": "",
-            "C": "PTPP C USMCA",
-            "D": "ASEAN6"
+            "B": "CPTPP",
+            "C": "USMCA",
+            "D": "ASEAN+6"
         },
         "answer": "B"
     },
@@ -1937,10 +1899,10 @@
     },
     {
         "id": 177,
-        "question": "The International Labour Organization ILO) is a specialized agency of:",
+        "question": "The International Labour Organization (ILO) is a specialized agency of:",
         "options": {
-            "A": "World",
-            "B": "ank B IMF",
+            "A": "World Bank",
+            "B": "IMF",
             "C": "United Nations",
             "D": "WTO"
         },
@@ -1973,18 +1935,18 @@
         "question": "The Doha Development Round is associated with:",
         "options": {
             "A": "WTO",
-            "B": "UN",
-            "C": "TA",
-            "D": "C World Bank D IMF"
+            "B": "UNCTAD",
+            "C": "World Bank",
+            "D": "IMF"
         },
         "answer": "A"
     },
     {
         "id": 181,
-        "question": "Special Drawing Rights SDR) are issued by:",
+        "question": "Special Drawing Rights (SDR) are issued by:",
         "options": {
-            "A": "World",
-            "B": "ank B IMF",
+            "A": "World Bank",
+            "B": "IMF",
             "C": "Bank for International Settlements",
             "D": "Federal Reserve"
         },
@@ -1992,7 +1954,7 @@
     },
     {
         "id": 182,
-        "question": "India's rank in the World Bank's Ease of Doing Business 2020) was:",
+        "question": "India's rank in the World Bank's Ease of Doing Business (2020) was:",
         "options": {
             "A": "63rd",
             "B": "77th",
@@ -2003,9 +1965,9 @@
     },
     {
         "id": 183,
-        "question": "The QU",
+        "question": "The QUAD partnership includes:",
         "options": {
-            "A": "D partnership includes: A India, USA, Japan, Australia",
+            "A": "India, USA, Japan, Australia",
             "B": "India, USA, Japan, UK",
             "C": "India, USA, Australia, Canada",
             "D": "India, Japan, Australia, South Korea"
@@ -2036,12 +1998,12 @@
     },
     {
         "id": 186,
-        "question": "The International Finance Corporation IFC) is part of:",
+        "question": "The International Finance Corporation (IFC) is part of:",
         "options": {
             "A": "IMF",
             "B": "World Bank Group",
-            "C": "Asian",
-            "D": "evelopment Bank D United Nations"
+            "C": "Asian Development Bank",
+            "D": "United Nations"
         },
         "answer": "B"
     },
@@ -2049,8 +2011,8 @@
         "id": 187,
         "question": "India's textile exports face competition mainly from:",
         "options": {
-            "A": "China and",
-            "B": "angladesh B Vietnam and Thailand",
+            "A": "China and Bangladesh",
+            "B": "Vietnam and Thailand",
             "C": "Turkey and Egypt",
             "D": "All of the above"
         },
@@ -2058,11 +2020,11 @@
     },
     {
         "id": 188,
-        "question": "The Foreign Exchange Management",
+        "question": "The Foreign Exchange Management Act (FEMA) replaced:",
         "options": {
-            "A": "ct FEMA) replaced: A Foreign Exchange Regulation Act FERA",
-            "B": "",
-            "C": "ompanies Act C Banking Regulation Act",
+            "A": "Foreign Exchange Regulation Act (FERA)",
+            "B": "Companies Act",
+            "C": "Banking Regulation Act",
             "D": "Securities and Exchange Board Act"
         },
         "answer": "A"
@@ -2091,9 +2053,9 @@
     },
     {
         "id": 191,
-        "question": "The International Solar",
+        "question": "The International Solar Alliance (ISA) is headquartered in:",
         "options": {
-            "A": "lliance ISA) is headquartered in: A New Delhi, India",
+            "A": "New Delhi, India",
             "B": "Paris, France",
             "C": "Gurugram, India",
             "D": "Geneva, Switzerland"
@@ -2102,11 +2064,11 @@
     },
     {
         "id": 192,
-        "question": "Free Trade",
+        "question": "Free Trade Agreements (FTAs) signed by India include:",
         "options": {
-            "A": "greements FTAs signed by India include: A India-ASEAN FTA",
-            "B": "India-Korea",
-            "C": "EPA C India-Japan EPA",
+            "A": "India-ASEAN FTA",
+            "B": "India-Korea CEPA",
+            "C": "India-Japan EPA",
             "D": "All of the above"
         },
         "answer": "D"
@@ -2157,9 +2119,9 @@
     },
     {
         "id": 197,
-        "question": "The",
+        "question": "The Asia-Pacific Economic Cooperation (APEC) includes:",
         "options": {
-            "A": "sia-Pacific Economic Cooperation APEC) includes: A 21 member economies",
+            "A": "21 member economies",
             "B": "25 member economies",
             "C": "18 member economies",
             "D": "30 member economies"
@@ -2190,10 +2152,10 @@
     },
     {
         "id": 200,
-        "question": "The International Monetary and Financial Committee IMFC) is the policy advisory body of:",
+        "question": "The International Monetary and Financial Committee (IMFC) is the policy advisory body",
         "options": {
-            "A": "World",
-            "B": "ank B IMF",
+            "A": "World Bank",
+            "B": "IMF",
             "C": "Bank for International Settlements",
             "D": "Federal Reserve"
         },
@@ -2201,9 +2163,9 @@
     },
     {
         "id": 201,
-        "question": "India-U",
+        "question": "India-UAE Comprehensive Economic Partnership Agreement (CEPA) was signed in:",
         "options": {
-            "A": "E Comprehensive Economic Partnership Agreement CEPA) was signed in: A 2021",
+            "A": "2021",
             "B": "2022",
             "C": "2023",
             "D": "2024"
@@ -2212,11 +2174,11 @@
     },
     {
         "id": 202,
-        "question": "The World Bank's International Development",
+        "question": "The World Bank's International Development Association (IDA) provides:",
         "options": {
-            "A": "ssociation IDA) provides: A Commercial loans",
-            "B": "",
-            "C": "oncessional loans C Grants only",
+            "A": "Commercial loans",
+            "B": "Concessional loans",
+            "C": "Grants only",
             "D": "Technical assistance only"
         },
         "answer": "B"
@@ -2245,7 +2207,7 @@
     },
     {
         "id": 205,
-        "question": "The OECD Organisation for Economic Co-operation and Development) has how many member countries?",
+        "question": "The OECD (Organisation for Economic Co-operation and Development) has how many",
         "options": {
             "A": "35",
             "B": "36",
@@ -2267,7 +2229,7 @@
     },
     {
         "id": 207,
-        "question": "The International Centre for Settlement of Investment Disputes ICSID) is part of:",
+        "question": "The International Centre for Settlement of Investment Disputes (ICSID) is part of:",
         "options": {
             "A": "IMF",
             "B": "World Bank Group",
@@ -2278,31 +2240,20 @@
     },
     {
         "id": 208,
-        "question": "India's IT services exports contribute approximately what percentage to total services exports?",
+        "question": "India's IT services exports contribute approximately what percentage to total services",
         "options": {
-            "A": "40%",
-            "B": "50%",
-            "C": "60%",
-            "D": "70%"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 209,
-        "question": "The",
-        "options": {
-            "A": "frican Development",
-            "B": "ank AfDB) is headquartered in: A",
-            "C": "airo, Egypt B Lagos, Nigeria C Abidjan, C\u00f4te d'Ivoire",
+            "A": "Cairo, Egypt",
+            "B": "Lagos, Nigeria",
+            "C": "Abidjan, C\u00f4te d'Ivoire",
             "D": "Tunis, Tunisia"
         },
         "answer": "C"
     },
     {
         "id": 210,
-        "question": "India's trade with Latin",
+        "question": "India's trade with Latin America is approximately:",
         "options": {
-            "A": "merica is approximately: A $25 billion",
+            "A": "$25 billion",
             "B": "$35 billion",
             "C": "$45 billion",
             "D": "$55 billion"
@@ -2311,7 +2262,7 @@
     },
     {
         "id": 211,
-        "question": "India's merchandise exports in 202324 were approximately:",
+        "question": "India's merchandise exports in 2023-24 were approximately:",
         "options": {
             "A": "$420 billion",
             "B": "$437 billion",
@@ -2322,12 +2273,12 @@
     },
     {
         "id": 212,
-        "question": "The Trade Infrastructure for Export Scheme TIES) is implemented by:",
+        "question": "The Trade Infrastructure for Export Scheme (TIES) is implemented by:",
         "options": {
             "A": "Ministry of Commerce and Industry",
             "B": "Ministry of External Affairs",
-            "C": "",
-            "D": "epartment of Economic Affairs D Export-Import Bank of India"
+            "C": "Department of Economic Affairs",
+            "D": "Export-Import Bank of India"
         },
         "answer": "A"
     },
@@ -2336,15 +2287,15 @@
         "question": "India's largest export destination is:",
         "options": {
             "A": "USA",
-            "B": "",
-            "C": "hina C UAE",
+            "B": "China",
+            "C": "UAE",
             "D": "UK"
         },
         "answer": "A"
     },
     {
         "id": 214,
-        "question": "The Merchandise Exports from India Scheme MEIS) was replaced by:",
+        "question": "The Merchandise Exports from India Scheme (MEIS) was replaced by:",
         "options": {
             "A": "RoDTEP",
             "B": "SEIS",
@@ -2359,7 +2310,7 @@
         "options": {
             "A": "Annually",
             "B": "Every two years",
-            "C": "Every five yearsSection 5 Trade 25 Questions)",
+            "C": "Every five years",
             "D": "As and when required"
         },
         "answer": "C"
@@ -2377,7 +2328,7 @@
     },
     {
         "id": 217,
-        "question": "The Export Credit Guarantee Corporation ECGC) provides:",
+        "question": "The Export Credit Guarantee Corporation (ECGC) provides:",
         "options": {
             "A": "Export finance",
             "B": "Export insurance",
@@ -2388,11 +2339,11 @@
     },
     {
         "id": 218,
-        "question": "Special Economic Zones SEZs in India are governed by:",
+        "question": "Special Economic Zones (SEZs) in India are governed by:",
         "options": {
             "A": "SEZ Act, 2005",
-            "B": "",
-            "C": "ompanies Act C Industrial Policy",
+            "B": "Companies Act",
+            "C": "Industrial Policy",
             "D": "Foreign Trade Policy"
         },
         "answer": "A"
@@ -2421,7 +2372,7 @@
     },
     {
         "id": 221,
-        "question": "The India Brand Equity Foundation IBEF) promotes:",
+        "question": "The India Brand Equity Foundation (IBEF) promotes:",
         "options": {
             "A": "Domestic brands",
             "B": "Export promotion",
@@ -2432,9 +2383,9 @@
     },
     {
         "id": 222,
-        "question": "",
+        "question": "Advance Authorization Scheme allows:",
         "options": {
-            "A": "dvance Authorization Scheme allows: A Duty-free import of inputs",
+            "A": "Duty-free import of inputs",
             "B": "Export obligation",
             "C": "Both A and B",
             "D": "Neither A nor B"
@@ -2454,7 +2405,7 @@
     },
     {
         "id": 224,
-        "question": "The Directorate General of Trade Remedies DGTR) handles:",
+        "question": "The Directorate General of Trade Remedies (DGTR) handles:",
         "options": {
             "A": "Anti-dumping investigations",
             "B": "Safeguard measures",
@@ -2465,7 +2416,7 @@
     },
     {
         "id": 225,
-        "question": "Export Promotion Capital Goods EPCG Scheme provides:",
+        "question": "Export Promotion Capital Goods (EPCG) Scheme provides:",
         "options": {
             "A": "Duty-free import of capital goods",
             "B": "Export obligation",
@@ -2487,10 +2438,10 @@
     },
     {
         "id": 227,
-        "question": "The Trade Facilitation",
+        "question": "The Trade Facilitation Agreement (TFA) is part of:",
         "options": {
-            "A": "greement TFA) is part of: A WTO",
-            "B": "ali Package B Doha Round",
+            "A": "WTO Bali Package",
+            "B": "Doha Round",
             "C": "Uruguay Round",
             "D": "Tokyo Round"
         },
@@ -2520,7 +2471,7 @@
     },
     {
         "id": 230,
-        "question": "The Remission of Duties and Taxes on Exported Products RoDTEP) scheme covers:",
+        "question": "The Remission of Duties and Taxes on Exported Products (RoDTEP) scheme covers:",
         "options": {
             "A": "Central taxes and duties",
             "B": "State taxes and duties",
@@ -2531,9 +2482,9 @@
     },
     {
         "id": 231,
-        "question": "Marine Products Export Development",
+        "question": "Marine Products Export Development Authority (MPEDA) is under:",
         "options": {
-            "A": "uthority MPEDA) is under: A Ministry of Commerce and Industry",
+            "A": "Ministry of Commerce and Industry",
             "B": "Ministry of Fisheries",
             "C": "Ministry of External Affairs",
             "D": "Ministry of Agriculture"
@@ -2553,9 +2504,9 @@
     },
     {
         "id": 233,
-        "question": "The Comprehensive Economic Partnership",
+        "question": "The Comprehensive Economic Partnership Agreement (CEPA) with South Korea was",
         "options": {
-            "A": "greement CEPA) with South Korea was signed in: A 2008",
+            "A": "2008",
             "B": "2009",
             "C": "2010",
             "D": "2011"
@@ -2586,7 +2537,7 @@
     },
     {
         "id": 236,
-        "question": "The Securities and Exchange Board of India SEBI) was established in:",
+        "question": "The Securities and Exchange Board of India (SEBI) was established in:",
         "options": {
             "A": "1988",
             "B": "1992",
@@ -2597,7 +2548,7 @@
     },
     {
         "id": 237,
-        "question": "The National Stock Exchange NSE) was established in:",
+        "question": "The National Stock Exchange (NSE) was established in:",
         "options": {
             "A": "1992",
             "B": "1993",
@@ -2619,7 +2570,7 @@
     },
     {
         "id": 239,
-        "question": "Real Estate Investment Trusts REITs were introduced in India in:",
+        "question": "Real Estate Investment Trusts (REITs) were introduced in India in:",
         "options": {
             "A": "2014",
             "B": "2015",
@@ -2641,7 +2592,7 @@
     },
     {
         "id": 241,
-        "question": "Infrastructure Investment Trusts InvITs can invest in:",
+        "question": "Infrastructure Investment Trusts (InvITs) can invest in:",
         "options": {
             "A": "Roads and highways",
             "B": "Power transmission",
@@ -2652,18 +2603,18 @@
     },
     {
         "id": 242,
-        "question": "The Securities Contracts Regulation",
+        "question": "The Securities Contracts Regulation Act was passed in:",
         "options": {
-            "A": "ct was passed in: A 1952",
+            "A": "1952",
             "B": "1956",
-            "C": "1962Section 6 India's Financial Market 45 Questions)",
+            "C": "1962",
             "D": "1966"
         },
         "answer": "B"
     },
     {
         "id": 243,
-        "question": "Foreign Portfolio Investors FPI) registration is valid for:",
+        "question": "Foreign Portfolio Investors (FPI) registration is valid for:",
         "options": {
             "A": "1 year",
             "B": "3 years",
@@ -2674,7 +2625,7 @@
     },
     {
         "id": 244,
-        "question": "The Depository Participants DP) provide:",
+        "question": "The Depository Participants (DP) provide:",
         "options": {
             "A": "Demat services",
             "B": "Trading services",
@@ -2687,8 +2638,8 @@
         "id": 245,
         "question": "Sovereign Gold Bonds are issued by:",
         "options": {
-            "A": "Reserve",
-            "B": "ank of India B Government of India",
+            "A": "Reserve Bank of India",
+            "B": "Government of India",
             "C": "Securities and Exchange Board of India",
             "D": "Bombay Stock Exchange"
         },
@@ -2696,9 +2647,9 @@
     },
     {
         "id": 246,
-        "question": "The",
+        "question": "The Alternative Investment Funds (AIF) are categorized into:",
         "options": {
-            "A": "lternative Investment Funds AIF) are categorized into: A 2 categories",
+            "A": "2 categories",
             "B": "3 categories",
             "C": "4 categories",
             "D": "5 categories"
@@ -2707,7 +2658,7 @@
     },
     {
         "id": 247,
-        "question": "Social Stock Exchange SSE) was launched by:",
+        "question": "Social Stock Exchange (SSE) was launched by:",
         "options": {
             "A": "NSE",
             "B": "BSE",
@@ -2732,15 +2683,15 @@
         "question": "Credit rating agencies in India include:",
         "options": {
             "A": "CRISIL and ICRA",
-            "B": "",
-            "C": "ARE and FitchC India Ratings",
+            "B": "CARE and Fitch",
+            "C": "India Ratings",
             "D": "All of the above"
         },
         "answer": "D"
     },
     {
         "id": 250,
-        "question": "The maximum Foreign Direct Investment FDI) in stock exchanges is:",
+        "question": "The maximum Foreign Direct Investment (FDI) in stock exchanges is:",
         "options": {
             "A": "49%",
             "B": "51%",
@@ -2751,10 +2702,10 @@
     },
     {
         "id": 251,
-        "question": "Participatory Notes PNotes) are issued by:",
+        "question": "Participatory Notes (P-Notes) are issued by:",
         "options": {
-            "A": "SE",
-            "B": "I B RBI",
+            "A": "SEBI",
+            "B": "RBI",
             "C": "Foreign Institutional Investors",
             "D": "Domestic mutual funds"
         },
@@ -2773,10 +2724,10 @@
     },
     {
         "id": 253,
-        "question": "Small and Medium Enterprises SME) platform is available on:",
+        "question": "Small and Medium Enterprises (SME) platform is available on:",
         "options": {
-            "A": "",
-            "B": "SE only B NSE only",
+            "A": "BSE only",
+            "B": "NSE only",
             "C": "Both BSE and NSE",
             "D": "Regional stock exchanges"
         },
@@ -2784,11 +2735,11 @@
     },
     {
         "id": 254,
-        "question": "The Investor Protection and Education Fund IPEF) is maintained by:",
+        "question": "The Investor Protection and Education Fund (IPEF) is maintained by:",
         "options": {
-            "A": "SE",
-            "B": "I B Ministry of",
-            "C": "orporate Affairs C RBI",
+            "A": "SEBI",
+            "B": "Ministry of Corporate Affairs",
+            "C": "RBI",
             "D": "Insurance companies"
         },
         "answer": "B"
@@ -2797,16 +2748,16 @@
         "id": 255,
         "question": "Commodity derivatives trading is regulated by:",
         "options": {
-            "A": "SE",
-            "B": "I B Forward Markets",
-            "C": "ommission C RBI",
+            "A": "SEBI",
+            "B": "Forward Markets Commission",
+            "C": "RBI",
             "D": "Ministry of Consumer Affairs"
         },
         "answer": "A"
     },
     {
         "id": 256,
-        "question": "The National Securities Depository Limited NSDL) was established in:",
+        "question": "The National Securities Depository Limited (NSDL) was established in:",
         "options": {
             "A": "1993",
             "B": "1995",
@@ -2817,9 +2768,9 @@
     },
     {
         "id": 257,
-        "question": "Mutual fund assets under management",
+        "question": "Mutual fund assets under management (AUM) in India is approximately:",
         "options": {
-            "A": "UM) in India is approximately: A \u20b935 lakh crore",
+            "A": "\u20b935 lakh crore",
             "B": "\u20b942 lakh crore",
             "C": "\u20b947 lakh crore",
             "D": "\u20b952 lakh crore"
@@ -2842,15 +2793,15 @@
         "question": "Electronic Settlement Mechanism in securities market is operated by:",
         "options": {
             "A": "Stock exchanges",
-            "B": "",
-            "C": "learing corporations C",
-            "D": "epositories D All of the above"
+            "B": "Clearing corporations",
+            "C": "Depositories",
+            "D": "All of the above"
         },
         "answer": "D"
     },
     {
         "id": 260,
-        "question": "Initial Public Offering IPO) pricing can be:",
+        "question": "Initial Public Offering (IPO) pricing can be:",
         "options": {
             "A": "Fixed price only",
             "B": "Book building only",
@@ -2861,9 +2812,9 @@
     },
     {
         "id": 261,
-        "question": "The Insurance Regulatory and Development",
+        "question": "The Insurance Regulatory and Development Authority (IRDAI) regulates:",
         "options": {
-            "A": "uthority IRDAI) regulates: A Life insurance only",
+            "A": "Life insurance only",
             "B": "General insurance only",
             "C": "Both life and general insurance",
             "D": "Reinsurance only"
@@ -2872,18 +2823,7 @@
     },
     {
         "id": 262,
-        "question": "Gold Exchange Traded Funds ETF) track:",
-        "options": {
-            "A": "Gold prices",
-            "B": "Gold mining stocks",
-            "C": "Jewelry companies",
-            "D": "Gold futures"
-        },
-        "answer": "A"
-    },
-    {
-        "id": 263,
-        "question": "The Central Depository Services Limited CDSL) was established in:",
+        "question": "Gold Exchange Traded Funds (ETF) track:",
         "options": {
             "A": "1997",
             "B": "1998",
@@ -2894,7 +2834,7 @@
     },
     {
         "id": 264,
-        "question": "Foreign Venture Capital Investors FVCI) can invest in:",
+        "question": "Foreign Venture Capital Investors (FVCI) can invest in:",
         "options": {
             "A": "Listed securities only",
             "B": "Unlisted securities only",
@@ -2905,7 +2845,7 @@
     },
     {
         "id": 265,
-        "question": "The concept of 'Systematic Investment Plan' SIP) is associated with:",
+        "question": "The concept of 'Systematic Investment Plan' (SIP) is associated with:",
         "options": {
             "A": "Fixed deposits",
             "B": "Mutual funds",
@@ -2916,7 +2856,7 @@
     },
     {
         "id": 266,
-        "question": "Commodity Transaction Tax CTT) is levied on:",
+        "question": "Commodity Transaction Tax (CTT) is levied on:",
         "options": {
             "A": "Agricultural commodities",
             "B": "Non-agricultural commodities",
@@ -2927,7 +2867,7 @@
     },
     {
         "id": 267,
-        "question": "The Multi Commodity Exchange MCX) deals primarily in:",
+        "question": "The Multi Commodity Exchange (MCX) deals primarily in:",
         "options": {
             "A": "Agricultural commodities",
             "B": "Energy and metals",
@@ -2941,8 +2881,8 @@
         "question": "Capital market instruments include:",
         "options": {
             "A": "Equity shares and debentures",
-            "B": "",
-            "C": "ommercial paper C Certificate of deposits",
+            "B": "Commercial paper",
+            "C": "Certificate of deposits",
             "D": "Treasury bills"
         },
         "answer": "A"
@@ -2951,30 +2891,19 @@
         "id": 269,
         "question": "The concept of 'Dividend Yield' represents:",
         "options": {
-            "A": "Dividend per share / Market price per share",
-            "B": "Market price per share / Dividend per share",
-            "C": "",
-            "D": "ividend / Net profit D Market capitalization / Dividend"
-        },
-        "answer": "A"
-    },
-    {
-        "id": 270,
-        "question": "Regional Stock Exchanges in India include:",
-        "options": {
             "A": "Calcutta Stock Exchange",
             "B": "Madras Stock Exchange",
-            "C": "",
-            "D": "elhi Stock Exchange D All of the above"
+            "C": "Delhi Stock Exchange",
+            "D": "All of the above"
         },
         "answer": "D"
     },
     {
         "id": 271,
-        "question": "The Employee Stock Option Plan ESOP) allows employees to:",
+        "question": "The Employee Stock Option Plan (ESOP) allows employees to:",
         "options": {
-            "A": "",
-            "B": "uy company shares at discounted rate B Sell company shares at premium",
+            "A": "Buy company shares at discounted rate",
+            "B": "Sell company shares at premium",
             "C": "Get free company shares",
             "D": "Trade in company shares"
         },
@@ -3004,7 +2933,7 @@
     },
     {
         "id": 274,
-        "question": "Unit Linked Insurance Plans ULIP) combine:",
+        "question": "Unit Linked Insurance Plans (ULIP) combine:",
         "options": {
             "A": "Insurance and investment",
             "B": "Banking and insurance",
@@ -3018,31 +2947,20 @@
         "question": "The Foreign Exchange Derivatives market includes:",
         "options": {
             "A": "Currency futures",
-            "B": "",
-            "C": "urrency options C Currency swaps",
+            "B": "Currency options",
+            "C": "Currency swaps",
             "D": "All of the above"
         },
         "answer": "D"
     },
     {
         "id": 276,
-        "question": "",
-        "options": {
-            "A": "ngel investors typically invest in: A Established companies",
-            "B": "Start-up companies",
-            "C": "Government securities",
-            "D": "Real estate"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 277,
-        "question": "The concept of 'Beta' in finance measures:",
+        "question": "Angel investors typically invest in:",
         "options": {
             "A": "Company's profitability",
             "B": "Stock's volatility relative to market",
-            "C": "",
-            "D": "ividend yield D Price-earnings ratio"
+            "C": "Dividend yield",
+            "D": "Price-earnings ratio"
         },
         "answer": "B"
     },
@@ -3050,16 +2968,16 @@
         "id": 278,
         "question": "Venture Capital funds are regulated under:",
         "options": {
-            "A": "SE",
-            "B": "I AIF Regulations B",
-            "C": "ompanies Act C RBI guidelines",
+            "A": "SEBI (AIF) Regulations",
+            "B": "Companies Act",
+            "C": "RBI guidelines",
             "D": "IRDAI regulations"
         },
         "answer": "A"
     },
     {
         "id": 279,
-        "question": "The National Spot Exchange Limited NSEL) dealt in:",
+        "question": "The National Spot Exchange Limited (NSEL) dealt in:",
         "options": {
             "A": "Agricultural commodities",
             "B": "Spot delivery contracts",
@@ -3070,11 +2988,11 @@
     },
     {
         "id": 280,
-        "question": "Exchange Traded Funds ETF) can track:",
+        "question": "Exchange Traded Funds (ETF) can track:",
         "options": {
             "A": "Stock indices",
-            "B": "",
-            "C": "ommodity prices C Government bonds",
+            "B": "Commodity prices",
+            "C": "Government bonds",
             "D": "All of the above"
         },
         "answer": "D"
@@ -3103,11 +3021,11 @@
     },
     {
         "id": 283,
-        "question": "The Production Linked Incentive PLI) scheme covers how many sectors?",
+        "question": "The Production Linked Incentive (PLI) scheme covers how many sectors?",
         "options": {
             "A": "13",
             "B": "14",
-            "C": "15Section 7 Industry & Infrastructure 80 Questions)",
+            "C": "15",
             "D": "16"
         },
         "answer": "B"
@@ -3150,8 +3068,8 @@
         "question": "The National Industrial Corridor Development Programme includes:",
         "options": {
             "A": "Delhi-Mumbai Industrial Corridor",
-            "B": "",
-            "C": "hennai-Bengaluru Industrial Corridor C East Coast Economic Corridor",
+            "B": "Chennai-Bengaluru Industrial Corridor",
+            "C": "East Coast Economic Corridor",
             "D": "All of the above"
         },
         "answer": "D"
@@ -3213,9 +3131,9 @@
     },
     {
         "id": 293,
-        "question": "The",
+        "question": "The Atal Innovation Mission (AIM) is under:",
         "options": {
-            "A": "tal Innovation Mission AIM) is under: A Ministry of Science and Technology",
+            "A": "Ministry of Science and Technology",
             "B": "NITI Aayog",
             "C": "Ministry of Education",
             "D": "Ministry of Electronics and IT"
@@ -3235,7 +3153,7 @@
     },
     {
         "id": 295,
-        "question": "The National Infrastructure Pipeline NIP) envisages investment of:",
+        "question": "The National Infrastructure Pipeline (NIP) envisages investment of:",
         "options": {
             "A": "\u20b9100 lakh crore",
             "B": "\u20b9111 lakh crore",
@@ -3249,8 +3167,8 @@
         "question": "Sagarmala Project aims to:",
         "options": {
             "A": "Port modernization",
-            "B": "",
-            "C": "oastal shipping development C Port connectivity enhancement",
+            "B": "Coastal shipping development",
+            "C": "Port connectivity enhancement",
             "D": "All of the above"
         },
         "answer": "D"
@@ -3325,17 +3243,6 @@
         "id": 303,
         "question": "India's defense production value is approximately:",
         "options": {
-            "A": "\u20b980,000 crore",
-            "B": "\u20b995,000 crore",
-            "C": "\u20b91,08,000 crore",
-            "D": "\u20b91,25,000 crore"
-        },
-        "answer": "C"
-    },
-    {
-        "id": 304,
-        "question": "The Dedicated Freight Corridor covers:",
-        "options": {
             "A": "Eastern and Western corridors",
             "B": "Northern and Southern corridors",
             "C": "Central and Coastal corridors",
@@ -3401,17 +3308,6 @@
     {
         "id": 310,
         "question": "The Space sector reforms allow:",
-        "options": {
-            "A": "Private sector participation",
-            "B": "FDI up to 100%",
-            "C": "Technology transfer",
-            "D": "All of the above"
-        },
-        "answer": "D"
-    },
-    {
-        "id": 311,
-        "question": "India's electronics manufacturing value is approximately:",
         "options": {
             "A": "$60 billion",
             "B": "$75 billion",
@@ -3479,19 +3375,8 @@
         "id": 317,
         "question": "India's food processing industry size is approximately:",
         "options": {
-            "A": "$250 billion",
-            "B": "$300 billion",
-            "C": "$350 billion",
-            "D": "$400 billion"
-        },
-        "answer": "C"
-    },
-    {
-        "id": 318,
-        "question": "The",
-        "options": {
-            "A": "tmanirbhar",
-            "B": "harat Package announced in 2020 was worth: A \u20b915 lakh crore B \u20b920 lakh crore",
+            "A": "\u20b915 lakh crore",
+            "B": "\u20b920 lakh crore",
             "C": "\u20b925 lakh crore",
             "D": "\u20b930 lakh crore"
         },
@@ -3510,7 +3395,7 @@
     },
     {
         "id": 320,
-        "question": "The National Educational Policy NEP 2020 aims to increase gross enrollment ratio in higher education to:",
+        "question": "The National Educational Policy (NEP) 2020 aims to increase gross enrollment ratio in",
         "options": {
             "A": "45%",
             "B": "50%",
@@ -3532,11 +3417,11 @@
     },
     {
         "id": 322,
-        "question": "The Faster",
+        "question": "The Faster Adoption and Manufacturing of Electric Vehicles (FAME) scheme provides:",
         "options": {
-            "A": "doption and Manufacturing of Electric Vehicles FAME) scheme provides: A Purchase incentives",
-            "B": "",
-            "C": "harging infrastructure C Technology development support",
+            "A": "Purchase incentives",
+            "B": "Charging infrastructure",
+            "C": "Technology development support",
             "D": "All of the above"
         },
         "answer": "D"
@@ -3558,8 +3443,8 @@
         "options": {
             "A": "10% of GDP by 2030",
             "B": "8% of GDP by 2030",
-            "C": "12% of G",
-            "D": "P by 2030D 15% of GDP by 2030"
+            "C": "12% of GDP by 2030",
+            "D": "15% of GDP by 2030"
         },
         "answer": "B"
     },
@@ -3642,9 +3527,9 @@
     },
     {
         "id": 332,
-        "question": "The National",
+        "question": "The National Apprenticeship Promotion Scheme aims to:",
         "options": {
-            "A": "pprenticeship Promotion Scheme aims to: A Create skilled workforce",
+            "A": "Create skilled workforce",
             "B": "Industry-academia partnership",
             "C": "Employment generation",
             "D": "All of the above"
@@ -3664,7 +3549,7 @@
     },
     {
         "id": 334,
-        "question": "The Scheme for Promotion of Manufacturing of Electronic Components and Semiconductors SPECS) provides:",
+        "question": "The Scheme for Promotion of Manufacturing of Electronic Components and",
         "options": {
             "A": "Financial incentives",
             "B": "Infrastructure support",
@@ -3686,29 +3571,18 @@
     },
     {
         "id": 336,
-        "question": "The Emergency Credit Line Guarantee Scheme ECLGS) was launched during:",
+        "question": "The Emergency Credit Line Guarantee Scheme (ECLGS) was launched during:",
         "options": {
             "A": "Economic slowdown",
-            "B": "",
-            "C": "OVI",
-            "D": "19 pandemic C Financial crisis D Natural disaster"
+            "B": "COVID-19 pandemic",
+            "C": "Financial crisis",
+            "D": "Natural disaster"
         },
         "answer": "B"
     },
     {
         "id": 337,
         "question": "India's entertainment and media industry size is approximately:",
-        "options": {
-            "A": "$18 billion",
-            "B": "$22 billion",
-            "C": "$26 billion",
-            "D": "$30 billion"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 338,
-        "question": "The PM Kisan Samman Nidhi provides:",
         "options": {
             "A": "\u20b96,000 per year to farmers",
             "B": "\u20b98,000 per year to farmers",
@@ -3730,12 +3604,12 @@
     },
     {
         "id": 340,
-        "question": "The",
+        "question": "The Ayushman Bharat scheme covers:",
         "options": {
-            "A": "yushman",
-            "B": "harat scheme covers: A Health insurance for poor families B Health and wellness centers",
-            "C": "",
-            "D": "igital health infrastructure D All of the above"
+            "A": "Health insurance for poor families",
+            "B": "Health and wellness centers",
+            "C": "Digital health infrastructure",
+            "D": "All of the above"
         },
         "answer": "D"
     },
@@ -3752,7 +3626,7 @@
     },
     {
         "id": 342,
-        "question": "The National Skills Qualification Framework NSQF) has:",
+        "question": "The National Skills Qualification Framework (NSQF) has:",
         "options": {
             "A": "8 levels",
             "B": "10 levels",
@@ -3776,17 +3650,6 @@
         "id": 344,
         "question": "The Stand Up India scheme provides:",
         "options": {
-            "A": "",
-            "B": "ank loans to S",
-            "C": "/ST and women entrepreneurs B Skill development programs C Market access support",
-            "D": "All of the above"
-        },
-        "answer": "A"
-    },
-    {
-        "id": 345,
-        "question": "India's artificial intelligence market size is projected to reach:",
-        "options": {
             "A": "$7 billion by 2025",
             "B": "$10 billion by 2025",
             "C": "$12 billion by 2025",
@@ -3799,8 +3662,8 @@
         "question": "The Digital India Land Records Modernization covers:",
         "options": {
             "A": "Survey and settlement",
-            "B": "",
-            "C": "omputerization of land records C Geographic Information System GIS",
+            "B": "Computerization of land records",
+            "C": "Geographic Information System (GIS)",
             "D": "All of the above"
         },
         "answer": "D"
@@ -3840,9 +3703,9 @@
     },
     {
         "id": 350,
-        "question": "The Mahatma Gandhi National Rural Employment Guarantee",
+        "question": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
         "options": {
-            "A": "ct MGNREGA) guarantees: A 100 days of employment",
+            "A": "100 days of employment",
             "B": "150 days of employment",
             "C": "200 days of employment",
             "D": "250 days of employment"
@@ -3862,9 +3725,9 @@
     },
     {
         "id": 352,
-        "question": "The PM Street Vendor's",
+        "question": "The PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) provides:",
         "options": {
-            "A": "tmaNirbhar Nidhi PM SVANidhi) provides: A Working capital loans",
+            "A": "Working capital loans",
             "B": "Digital payment incentives",
             "C": "Skill development",
             "D": "All of the above"
@@ -3928,7 +3791,7 @@
     },
     {
         "id": 358,
-        "question": "The One District One Product ODOP) scheme promotes:",
+        "question": "The One District One Product (ODOP) scheme promotes:",
         "options": {
             "A": "Local products and crafts",
             "B": "Export promotion",
@@ -3961,9 +3824,9 @@
     },
     {
         "id": 361,
-        "question": "",
+        "question": "Agriculture's contribution to India's GDP is approximately:",
         "options": {
-            "A": "griculture's contribution to India's GDP is approximately: A 15%",
+            "A": "15%",
             "B": "17%",
             "C": "20%",
             "D": "23%"
@@ -3972,11 +3835,11 @@
     },
     {
         "id": 362,
-        "question": "The Minimum Support Price MSP) for crops is announced by:",
+        "question": "The Minimum Support Price (MSP) for crops is announced by:",
         "options": {
             "A": "Ministry of Agriculture",
-            "B": "",
-            "C": "ommission for Agricultural Costs and Prices CACP C Food Corporation of India",
+            "B": "Commission for Agricultural Costs and Prices (CACP)",
+            "C": "Food Corporation of India",
             "D": "Agricultural Marketing Division"
         },
         "answer": "B"
@@ -3994,18 +3857,7 @@
     },
     {
         "id": 364,
-        "question": "The Pradhan Mantri Kisan Samman Nidhi PMKIS",
-        "options": {
-            "A": "N) covers: A All farmers",
-            "B": "Small and marginal farmers only",
-            "C": "Landless farmers",
-            "D": "Share croppers"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 365,
-        "question": "Natural farming emphasizes:",
+        "question": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) covers:",
         "options": {
             "A": "Zero use of chemicals",
             "B": "Use of biological inputs",
@@ -4016,7 +3868,7 @@
     },
     {
         "id": 366,
-        "question": "India's food grain production in 202324 was approximately:",
+        "question": "India's food grain production in 2023-24 was approximately:",
         "options": {
             "A": "315 million tonnes",
             "B": "325 million tonnes",
@@ -4027,9 +3879,9 @@
     },
     {
         "id": 367,
-        "question": "The",
+        "question": "The Agricultural Marketing and Farmer Friendly Reforms Index (AMFFRI) ranks states",
         "options": {
-            "A": "gricultural Marketing and Farmer Friendly Reforms Index AMFFRI) ranks states on: A Market reforms implementation",
+            "A": "Market reforms implementation",
             "B": "Agricultural productivity",
             "C": "Farmer income",
             "D": "Crop diversification"
@@ -4060,9 +3912,9 @@
     },
     {
         "id": 370,
-        "question": "",
+        "question": "Agricultural exports from India are approximately:",
         "options": {
-            "A": "gricultural exports from India are approximately: A $45 billion",
+            "A": "$45 billion",
             "B": "$52 billion",
             "C": "$58 billion",
             "D": "$65 billion"
@@ -4071,9 +3923,9 @@
     },
     {
         "id": 371,
-        "question": "The e-N",
+        "question": "The e-NAM (National Agriculture Market) platform connects:",
         "options": {
-            "A": "M National Agriculture Market) platform connects: A 1,000 mandis",
+            "A": "1,000 mandis",
             "B": "1,200 mandis",
             "C": "1,361 mandis",
             "D": "1,500 mandis"
@@ -4093,7 +3945,7 @@
     },
     {
         "id": 373,
-        "question": "The Paramparagat Krishi Vikas Yojana PKVY) promotes:",
+        "question": "The Paramparagat Krishi Vikas Yojana (PKVY) promotes:",
         "options": {
             "A": "Organic farming",
             "B": "Natural farming",
@@ -4115,7 +3967,7 @@
     },
     {
         "id": 375,
-        "question": "The Kisan Credit Card KCC) scheme provides:",
+        "question": "The Kisan Credit Card (KCC) scheme provides:",
         "options": {
             "A": "Crop loans",
             "B": "Asset loans",
@@ -4137,9 +3989,9 @@
     },
     {
         "id": 377,
-        "question": "The National Food Security",
+        "question": "The National Food Security Act covers:",
         "options": {
-            "A": "ct covers: A 67% of population",
+            "A": "67% of population",
             "B": "70% of population",
             "C": "75% of population",
             "D": "80% of population"
@@ -4159,9 +4011,9 @@
     },
     {
         "id": 379,
-        "question": "The Model Tenancy",
+        "question": "The Model Tenancy Act 2021 aims to:",
         "options": {
-            "A": "ct 2021 aims to: A Legalize agricultural tenancy",
+            "A": "Legalize agricultural tenancy",
             "B": "Protect tenant farmers' rights",
             "C": "Encourage land leasing",
             "D": "All of the above"
@@ -4181,11 +4033,11 @@
     },
     {
         "id": 381,
-        "question": "The Pradhan Mantri Krishi Sinchai Yojana PMKSY) focuses on:",
+        "question": "The Pradhan Mantri Krishi Sinchai Yojana (PMKSY) focuses on:",
         "options": {
             "A": "Har Khet Ko Pani",
-            "B": "Per Drop More",
-            "C": "rop C Watershed development",
+            "B": "Per Drop More Crop",
+            "C": "Watershed development",
             "D": "All of the above"
         },
         "answer": "D"
@@ -4203,9 +4055,9 @@
     },
     {
         "id": 383,
-        "question": "The",
+        "question": "The Agriculture Infrastructure Fund provides:",
         "options": {
-            "A": "griculture Infrastructure Fund provides: A \u20b91 lakh crore financing",
+            "A": "\u20b91 lakh crore financing",
             "B": "Interest subvention",
             "C": "Credit guarantee",
             "D": "All of the above"
@@ -4269,7 +4121,7 @@
     },
     {
         "id": 389,
-        "question": "The Mission for Integrated Development of Horticulture MIDH) covers:",
+        "question": "The Mission for Integrated Development of Horticulture (MIDH) covers:",
         "options": {
             "A": "Fruits and vegetables",
             "B": "Flowers and aromatic plants",
@@ -4291,18 +4143,7 @@
     },
     {
         "id": 391,
-        "question": "The National Beekeeping and Honey Mission NBHM) aims to:",
-        "options": {
-            "A": "Increase honey production",
-            "B": "Improve bee colony health",
-            "C": "Enhance farmer income",
-            "D": "All of the above"
-        },
-        "answer": "D"
-    },
-    {
-        "id": 392,
-        "question": "India's coffee production is approximately:",
+        "question": "The National Beekeeping and Honey Mission (NBHM) aims to:",
         "options": {
             "A": "320,000 tonnes",
             "B": "350,000 tonnes",
@@ -4335,9 +4176,9 @@
     },
     {
         "id": 395,
-        "question": "The",
+        "question": "The Agriculture Export Policy aims to:",
         "options": {
-            "A": "griculture Export Policy aims to: A Double agricultural exports by 2025",
+            "A": "Double agricultural exports by 2025",
             "B": "Diversify export basket",
             "C": "Promote high-value agriculture",
             "D": "All of the above"
@@ -4357,7 +4198,7 @@
     },
     {
         "id": 397,
-        "question": "The Zero Budget Natural Farming ZBNF) is promoted in:",
+        "question": "The Zero Budget Natural Farming (ZBNF) is promoted in:",
         "options": {
             "A": "Andhra Pradesh",
             "B": "Karnataka",
@@ -4379,9 +4220,9 @@
     },
     {
         "id": 399,
-        "question": "The National Mission for Sustainable",
+        "question": "The National Mission for Sustainable Agriculture (NMSA) focuses on:",
         "options": {
-            "A": "griculture NMSA) focuses on: A Climate resilient agriculture",
+            "A": "Climate resilient agriculture",
             "B": "Water conservation",
             "C": "Soil health management",
             "D": "All of the above"
@@ -4401,7 +4242,7 @@
     },
     {
         "id": 401,
-        "question": "The Rashtriya Krishi Vikas Yojana RKVY) aims for:",
+        "question": "The Rashtriya Krishi Vikas Yojana (RKVY) aims for:",
         "options": {
             "A": "4% annual growth in agriculture",
             "B": "5% annual growth in agriculture",
@@ -4414,7 +4255,7 @@
         "id": 402,
         "question": "India's rice production is approximately:",
         "options": {
-            "A": "125 million tonneswhy did you stop at 397, i need total 500",
+            "A": "125 million tonnes",
             "B": "132 million tonnes",
             "C": "137 million tonnes",
             "D": "142 million tonnes"
@@ -4423,9 +4264,9 @@
     },
     {
         "id": 403,
-        "question": "The Sub-Mission on",
+        "question": "The Sub-Mission on Agricultural Mechanization (SMAM) provides:",
         "options": {
-            "A": "gricultural Mechanization SMAM) provides: A Financial assistance for machinery",
+            "A": "Financial assistance for machinery",
             "B": "Training on machinery use",
             "C": "Custom hiring centers",
             "D": "All of the above"
@@ -4445,11 +4286,11 @@
     },
     {
         "id": 405,
-        "question": "The National Food Security Mission NFSM) covers:",
+        "question": "The National Food Security Mission (NFSM) covers:",
         "options": {
             "A": "Rice, wheat, and pulses",
-            "B": "",
-            "C": "oarse cereals C Commercial crops",
+            "B": "Coarse cereals",
+            "C": "Commercial crops",
             "D": "Both A and B"
         },
         "answer": "D"
@@ -4480,21 +4321,10 @@
         "id": 408,
         "question": "India's banana production is approximately:",
         "options": {
-            "A": "30 million tonnes",
-            "B": "33 million tonnes",
-            "C": "36 million tonnes",
-            "D": "39 million tonnes"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 409,
-        "question": "The National Livestock Mission aims to:",
-        "options": {
             "A": "Increase livestock productivity",
             "B": "Strengthen breed improvement programs",
-            "C": "",
-            "D": "evelop fodder resources D All of the above"
+            "C": "Develop fodder resources",
+            "D": "All of the above"
         },
         "answer": "D"
     },
@@ -4511,7 +4341,7 @@
     },
     {
         "id": 411,
-        "question": "The Integrated Child Development Services ICDS) addresses:",
+        "question": "The Integrated Child Development Services (ICDS) addresses:",
         "options": {
             "A": "Child malnutrition",
             "B": "Pre-school education",
@@ -4533,7 +4363,7 @@
     },
     {
         "id": 413,
-        "question": "The National Rural Livelihood Mission NRLM) focuses on:",
+        "question": "The National Rural Livelihood Mission (NRLM) focuses on:",
         "options": {
             "A": "Self-employment opportunities",
             "B": "Skill development",
@@ -4555,18 +4385,7 @@
     },
     {
         "id": 415,
-        "question": "The Deendayal",
-        "options": {
-            "A": "ntyodaya Yojana covers: A Rural livelihood mission",
-            "B": "Urban livelihood mission",
-            "C": "Both rural and urban",
-            "D": "Skill development only"
-        },
-        "answer": "C"
-    },
-    {
-        "id": 416,
-        "question": "India's tomato production is approximately:",
+        "question": "The Deendayal Antyodaya Yojana covers:",
         "options": {
             "A": "18 million tonnes",
             "B": "20 million tonnes",
@@ -4621,7 +4440,7 @@
     },
     {
         "id": 421,
-        "question": "The National Mission on Oilseeds and Oil Palm NMOOP) focuses on:",
+        "question": "The National Mission on Oilseeds and Oil Palm (NMOOP) focuses on:",
         "options": {
             "A": "Increasing oilseeds production",
             "B": "Oil palm cultivation",
@@ -4633,17 +4452,6 @@
     {
         "id": 422,
         "question": "India's groundnut production is approximately:",
-        "options": {
-            "A": "8.5 million tonnes",
-            "B": "9.2 million tonnes",
-            "C": "9.8 million tonnes",
-            "D": "10.5 million tonnes"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 423,
-        "question": "The Pradhan Mantri Gram Sadak Yojana provides:",
         "options": {
             "A": "Rural road connectivity",
             "B": "All-weather roads to habitations",
@@ -4665,9 +4473,9 @@
     },
     {
         "id": 425,
-        "question": "The National Rural Employment Guarantee",
+        "question": "The National Rural Employment Guarantee Act provides:",
         "options": {
-            "A": "ct provides: A 100 days guaranteed employment",
+            "A": "100 days guaranteed employment",
             "B": "Minimum wages",
             "C": "Asset creation",
             "D": "All of the above"
@@ -4687,7 +4495,7 @@
     },
     {
         "id": 427,
-        "question": "The Swachh Bharat Mission Rural aims for:",
+        "question": "The Swachh Bharat Mission (Rural) aims for:",
         "options": {
             "A": "Open defecation free villages",
             "B": "Solid waste management",
@@ -4711,17 +4519,6 @@
         "id": 429,
         "question": "The National Solar Mission targets:",
         "options": {
-            "A": "100 GW solar capacity by 2022",
-            "B": "150 GW solar capacity by 2025",
-            "C": "200 GW solar capacity by 2030",
-            "D": "300 GW solar capacity by 2030"
-        },
-        "answer": "A"
-    },
-    {
-        "id": 430,
-        "question": "India's turmeric production is approximately:",
-        "options": {
             "A": "900,000 tonnes",
             "B": "1.1 million tonnes",
             "C": "1.3 million tonnes",
@@ -4731,10 +4528,10 @@
     },
     {
         "id": 431,
-        "question": "The Human Development Index HDI) is published by:",
+        "question": "The Human Development Index (HDI) is published by:",
         "options": {
-            "A": "World",
-            "B": "ank B United Nations Development Programme",
+            "A": "World Bank",
+            "B": "United Nations Development Programme",
             "C": "International Monetary Fund",
             "D": "World Health Organization"
         },
@@ -4790,7 +4587,7 @@
         "options": {
             "A": "107th",
             "B": "111th",
-            "C": "116thSection 9 Reports/Indices 70 Questions)",
+            "C": "116th",
             "D": "121st"
         },
         "answer": "B"
@@ -4843,8 +4640,8 @@
         "id": 441,
         "question": "The Corruption Perceptions Index is published by:",
         "options": {
-            "A": "World",
-            "B": "ank B United Nations",
+            "A": "World Bank",
+            "B": "United Nations",
             "C": "Transparency International",
             "D": "World Economic Forum"
         },
@@ -4887,8 +4684,8 @@
         "id": 445,
         "question": "The Financial Inclusion Index is published by:",
         "options": {
-            "A": "World",
-            "B": "ank B International Monetary Fund",
+            "A": "World Bank",
+            "B": "International Monetary Fund",
             "C": "Reserve Bank of India",
             "D": "McKinsey Global Institute"
         },
@@ -4997,8 +4794,8 @@
         "id": 455,
         "question": "The Global Entrepreneurship Index is published by:",
         "options": {
-            "A": "World",
-            "B": "ank B Global Entrepreneurship and Development Institute",
+            "A": "World Bank",
+            "B": "Global Entrepreneurship and Development Institute",
             "C": "Kauffman Foundation",
             "D": "Babson College"
         },
@@ -5008,20 +4805,9 @@
         "id": 456,
         "question": "India's rank in Digital Competitiveness Ranking 2023 is:",
         "options": {
-            "A": "49th",
-            "B": "52nd",
-            "C": "56th",
-            "D": "60th"
-        },
-        "answer": "C"
-    },
-    {
-        "id": 457,
-        "question": "The Climate Change Performance Index is published by:",
-        "options": {
             "A": "United Nations Environment Programme",
-            "B": "",
-            "C": "limate Action Network C Germanwatch",
+            "B": "Climate Action Network",
+            "C": "Germanwatch",
             "D": "Both B and C"
         },
         "answer": "D"
@@ -5042,8 +4828,8 @@
         "question": "The Good Country Index measures:",
         "options": {
             "A": "Economic development",
-            "B": "",
-            "C": "ontribution to humanity and planet C Governance quality",
+            "B": "Contribution to humanity and planet",
+            "C": "Governance quality",
             "D": "Social progress"
         },
         "answer": "B"
@@ -5085,17 +4871,6 @@
         "id": 463,
         "question": "The Global Manufacturing Competitiveness Index is published by:",
         "options": {
-            "A": "McKinsey Global Institute",
-            "B": "Deloitte",
-            "C": "Boston Consulting Group",
-            "D": "World Economic Forum"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 464,
-        "question": "India's rank in World Bank Human Capital Index is:",
-        "options": {
             "A": "116th",
             "B": "120th",
             "C": "124th",
@@ -5107,8 +4882,8 @@
         "id": 465,
         "question": "The Inclusive Development Index is published by:",
         "options": {
-            "A": "World",
-            "B": "ank B World Economic Forum",
+            "A": "World Bank",
+            "B": "World Economic Forum",
             "C": "United Nations",
             "D": "International Monetary Fund"
         },
@@ -5152,8 +4927,8 @@
         "question": "The State of the World's Children Report is published by:",
         "options": {
             "A": "World Health Organization",
-            "B": "UNI",
-            "C": "EF C Save the Children",
+            "B": "UNICEF",
+            "C": "Save the Children",
             "D": "World Bank"
         },
         "answer": "B"
@@ -5161,17 +4936,6 @@
     {
         "id": 470,
         "question": "India's rank in Global Retirement Index 2023 is:",
-        "options": {
-            "A": "40th",
-            "B": "42nd",
-            "C": "44th",
-            "D": "46th"
-        },
-        "answer": "C"
-    },
-    {
-        "id": 471,
-        "question": "The Financial Development Index is published by:",
         "options": {
             "A": "World Economic Forum",
             "B": "World Bank",
@@ -5219,8 +4983,8 @@
         "options": {
             "A": "United Nations",
             "B": "World Bank",
-            "C": "OEC",
-            "D": "D International Telecommunication Union"
+            "C": "OECD",
+            "D": "International Telecommunication Union"
         },
         "answer": "A"
     },
@@ -5238,17 +5002,6 @@
     {
         "id": 477,
         "question": "The Global Innovation Policy Index is published by:",
-        "options": {
-            "A": "World Intellectual Property Organization",
-            "B": "Information Technology and Innovation Foundation",
-            "C": "World Economic Forum",
-            "D": "United Nations"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 478,
-        "question": "India's rank in World Giving Index 2022 is:",
         "options": {
             "A": "118th",
             "B": "124th",
@@ -5283,8 +5036,8 @@
         "id": 481,
         "question": "The World Employment and Social Outlook is published by:",
         "options": {
-            "A": "World",
-            "B": "ank B International Labour Organization",
+            "A": "World Bank",
+            "B": "International Labour Organization",
             "C": "United Nations",
             "D": "International Monetary Fund"
         },
@@ -5306,7 +5059,7 @@
         "question": "The Inclusive Internet Index is published by:",
         "options": {
             "A": "International Telecommunication Union",
-            "B": "Facebook Meta",
+            "B": "Facebook (Meta)",
             "C": "World Wide Web Foundation",
             "D": "Internet Society"
         },
@@ -5314,18 +5067,7 @@
     },
     {
         "id": 484,
-        "question": "India's rank in Global",
-        "options": {
-            "A": "ge Watch Index 2015 was: A 71st",
-            "B": "73rd",
-            "C": "75th",
-            "D": "78th"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 485,
-        "question": "The Global Opportunities Index is published by:",
+        "question": "India's rank in Global Age Watch Index 2015 was:",
         "options": {
             "A": "Milken Institute",
             "B": "World Bank",
@@ -5369,9 +5111,9 @@
     },
     {
         "id": 489,
-        "question": "The World",
+        "question": "The World Air Quality Report is published by:",
         "options": {
-            "A": "ir Quality Report is published by: A World Health Organization",
+            "A": "World Health Organization",
             "B": "IQAir",
             "C": "United Nations Environment Programme",
             "D": "Greenpeace"
@@ -5393,17 +5135,6 @@
         "id": 491,
         "question": "The Future of Jobs Report is published by:",
         "options": {
-            "A": "International Labour Organization",
-            "B": "World Economic Forum",
-            "C": "McKinsey Global Institute",
-            "D": "World Bank"
-        },
-        "answer": "B"
-    },
-    {
-        "id": 492,
-        "question": "India's rank in Mobile Money Regulatory Index 2022 is:",
-        "options": {
             "A": "2nd",
             "B": "4th",
             "C": "6th",
@@ -5415,10 +5146,10 @@
         "id": 493,
         "question": "The Global Multidimensional Poverty Index is published by:",
         "options": {
-            "A": "World",
-            "B": "ank B United Nations Development Programme",
-            "C": "Oxford Poverty and Human",
-            "D": "evelopment Initiative D Both B and C"
+            "A": "World Bank",
+            "B": "United Nations Development Programme",
+            "C": "Oxford Poverty and Human Development Initiative",
+            "D": "Both B and C"
         },
         "answer": "D"
     },
@@ -5438,8 +5169,8 @@
         "question": "The World Competitiveness Yearbook is published by:",
         "options": {
             "A": "World Economic Forum",
-            "B": "IMD World",
-            "C": "ompetitiveness Center C Harvard Business School",
+            "B": "IMD World Competitiveness Center",
+            "C": "Harvard Business School",
             "D": "McKinsey Global Institute"
         },
         "answer": "B"
@@ -5460,8 +5191,8 @@
         "question": "The Global Wealth Report is published by:",
         "options": {
             "A": "Forbes",
-            "B": "",
-            "C": "redit Suisse C UBS",
+            "B": "Credit Suisse",
+            "C": "UBS",
             "D": "Both B and C"
         },
         "answer": "D"
@@ -5470,18 +5201,7 @@
         "id": 498,
         "question": "India's rank in World University Rankings 2024 shows:",
         "options": {
-            "A": "IISc",
-            "B": "angalore in top 300 B IIT Delhi in top 400",
-            "C": "IIT Bombay in top 500",
-            "D": "All of the above"
-        },
-        "answer": "D"
-    },
-    {
-        "id": 499,
-        "question": "The State of Global",
-        "options": {
-            "A": "ir Report is published by: A World Health Organization",
+            "A": "World Health Organization",
             "B": "Health Effects Institute",
             "C": "United Nations Environment Programme",
             "D": "World Bank"

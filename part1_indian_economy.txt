@@ -1,0 +1,2423 @@
+1. What does GDP deflator measure?
+A) Real GDP growth rate
+B) Price level changes in the economy
+C) Per capita income growth
+D) Export-import ratio
+Answer: B
+2. Which of the following is NOT included in the calculation of Gross National Product
+(GNP)?
+A) Wages paid to Indian workers abroad
+B) Profits of Indian companies operating overseas
+C) Income earned by foreign nationals in India
+D) Remittances sent by Indian diaspora
+Answer: C
+3. The concept of 'Purple Economy' refers to:
+A) Economy based on cultural and creative industries
+B) Digital economy initiatives
+C) Agricultural transformation programs
+D) Industrial pollution control measures
+Answer: A
+4. India's economic growth accelerated to what percentage in 2023-24?
+A) 6.8%
+B) 7.2%
+C) 7.6%D) 8.1%
+Answer: C
+5. Consumer Price Inflation in India is primarily measured using which index?
+A) Wholesale Price Index (WPI)
+B) Consumer Price Index for Industrial Workers (CPI-IW)
+C) Consumer Price Index Combined (CPI-C)
+D) GDP Deflator
+Answer: C
+6. The 'Concert Economy' concept is associated with:
+A) Music industry economic contribution
+B) Collaborative economic models
+C) Entertainment sector GDP
+D) Cultural events revenue generation
+Answer: B
+7. What was India's real GDP growth rate in Q4 of 2023-24?
+A) 7.8%
+B) 8.2%
+C) 7.1%
+D) 6.9%
+Answer: A
+8. Record remittances to India in 2024 reached approximately:
+A) $87 billion
+B) $95 billion
+C) $111 billion
+D) $125 billion
+Answer: C
+9. The Gross Value Added (GVA) at basic prices differs from GDP at market prices by:
+A) Net indirect taxes
+B) Subsidies only
+C) Direct taxes
+D) Transfer payments
+Answer: A
+10. Which sector contributed most to India's GDP growth in 2023-24?
+A) Agriculture
+B) Manufacturing
+C) Services
+D) Construction
+Answer: C
+11. The term 'India's Economic Slowdown' primarily refers to the period:
+A) 2008-2009
+B) 2016-2020C) 2020-2021
+D) 2019-2020
+Answer: B
+12. Government expenditure as a percentage of GDP in India is approximately:
+A) 15-18%
+B) 20-25%
+C) 27-30%
+D) 35-40%
+Answer: C
+13. The base year for calculating India's GDP is currently:
+A) 2004-05
+B) 2011-12
+C) 2017-18
+D) 2019-20
+Answer: B
+14. Which of the following is a leading indicator of economic activity?
+A) Unemployment rate
+B) Industrial production index
+C) PMI (Purchasing Managers' Index)
+D) All of the above
+Answer: D
+15. The concept of 'Potential GDP' refers to:
+A) Maximum possible GDP growth
+B) GDP at full employment level
+C) GDP target set by government
+D) Historical highest GDP
+Answer: B
+16. India's per capita income at current prices in 2023-24 was approximately:
+A) ₹1.25 lakh
+B) ₹1.56 lakh
+C) ₹1.85 lakh
+D) ₹2.10 lakh
+Answer: C
+17. The Gross Fixed Capital Formation (GFCF) as percentage of GDP indicates:
+A) Investment rate in the economy
+B) Savings rate
+C) Consumption pattern
+D) Export competitiveness
+Answer: A
+18. Which price index is used for inflation targeting by RBI?
+A) WPIB) CPI (Combined)
+C) Core CPI
+D) GDP Deflator
+Answer: B
+19. The Economic Survey is prepared by:
+A) Reserve Bank of India
+B) Planning Commission
+C) Economic Division, Ministry of Finance
+D) NITI Aayog
+Answer: C
+20. India's inflation target set by RBI is:
+A) 2% (+/- 2%)
+B) 4% (+/- 2%)
+C) 6% (+/- 2%)
+D) 3% (+/- 1%)
+Answer: B
+21. The Green GDP concept includes:
+A) Environmental costs in GDP calculation
+B) Agricultural GDP only
+C) Renewable energy contribution
+D) Forest cover measurement
+Answer: A
+22. Which committee recommended the current method of GDP calculation in India?
+A) Rangarajan Committee
+B) Urjit Patel Committee
+C) Suresh Tendulkar Committee
+D) Central Statistics Office Committee
+Answer: A
+23. The term 'Stagflation' refers to:
+A) High inflation with high growth
+B) Low inflation with high growth
+C) High inflation with low/negative growth
+D) Deflation with recession
+Answer: C
+24. India's Gross Domestic Savings rate is approximately:
+A) 28-30%
+B) 30-32%
+C) 25-27%
+D) 35-37%
+Answer: A
+25. The Purchasing Power Parity (PPP) adjusted GDP of India ranks:
+A) 2nd globally
+B) 3rd globally
+C) 4th globally
+D) 5th globally
+Answer: B
+26. Which factor does NOT affect the GDP deflator?
+A) Changes in prices of goods and services
+B) Changes in composition of GDP
+C) Import price changes
+D) Population growth
+Answer: D
+27. The concept of 'India Stack' in digital economy refers to:
+A) Software development infrastructure
+B) Digital identity and payment infrastructure
+C) E-commerce platforms
+D) Cybersecurity framework
+Answer: B
+28. Real GDP is calculated by:
+A) Nominal GDP / GDP Deflator
+B) Nominal GDP × GDP Deflator
+C) Nominal GDP + GDP Deflator
+D) Nominal GDP - GDP Deflator
+Answer: A
+29. The Quarterly GDP estimates in India are released by:
+A) RBI
+B) Ministry of Finance
+C) National Statistical Office (NSO)
+D) NITI Aayog
+Answer: C
+30. Which of the following is NOT a component of aggregate demand?
+A) Private consumption
+B) Government expenditure
+C) Net exports
+D) Money supply
+Answer: D
+31. The term 'K-shaped recovery' indicates:
+A) Uniform economic recovery
+B) Uneven recovery across sectors/groups
+C) V-shaped recovery pattern
+D) Sustained growth trajectory
+Answer: B
+32. India's economic complexity ranking has:
+A) Improved significantly
+B) Remained stagnant
+C) Declined over years
+D) Not been measured
+Answer: C
+33. The Gross National Income (GNI) includes:
+A) Only domestic production
+B) Domestic production + net income from abroad
+C) Only services sector income
+D) Government revenue only
+Answer: B
+34. Which price index has the highest weightage for food items?
+A) CPI-Rural
+B) CPI-Urban
+C) WPI
+D) All have equal weightage
+Answer: A
+35. The Economic Census in India is conducted every:
+A) 5 years
+B) 10 years
+C) 3 years
+D) 7 years
+Answer: A
+36. India's rank in Ease of Doing Business (2020) was:
+A) 63rd
+B) 77th
+C) 142nd
+D) 100th
+Answer: A
+37. The concept of 'Circular Economy' emphasizes:
+A) Waste reduction and resource efficiency
+B) Cyclical economic policies
+C) Rotating industrial sectors
+D) Regional economic integration
+Answer: A
+38. Which sector has the highest employment share in India?
+A) Agriculture
+B) Manufacturing
+C) Services
+D) Construction
+Answer: A
+39. The Gross Fixed Capital Formation includes:
+A) Investment in fixed assets
+B) Inventory changes
+C) Financial investments
+D) Consumer durables
+Answer: A
+40. India's current account deficit in 2023-24 was approximately:
+A) 0.7% of GDP
+B) 1.2% of GDP
+C) 2.1% of GDP
+D) 2.8% of GDP
+Answer: A
+41. The term 'Degrowth' in economics refers to:
+A) Economic recession
+B) Planned reduction of resource use
+C) Decline in population
+D) Industrial shutdown
+Answer: B
+42. Which institution publishes the World Economic Outlook?
+A) World Bank
+B) International Monetary Fund
+C) World Trade Organization
+D) United Nations
+Answer: B
+43. The Phillips Curve shows the relationship between:
+A) Inflation and unemployment
+B) Growth and investment
+C) Savings and consumption
+D) Export and import
+Answer: A
+44. India's economic growth model is often described as:
+A) Export-led growth
+B) Investment-led growth
+C) Consumption-led growth
+D) Agriculture-led growth
+Answer: C
+45. The Gini coefficient measures:
+A) Economic growth rate
+B) Income inequality
+C) Poverty ratio
+D) Human development
+Answer: B
+46. Which economic indicator is released monthly?
+A) GDP
+B) Index of Industrial Production (IIP)
+C) National Income
+D) Gross Capital Formation
+Answer: B
+47. The concept of 'Atmanirbhar Bharat' emphasizes:
+A) Export promotion
+B) Import substitution
+C) Self-reliance and resilience
+D) Foreign investment attraction
+Answer: C
+48. India's demographic dividend is expected to last till:
+A) 2030
+B) 2040
+C) 2050
+D) 2055
+Answer: C
+49. The term 'Dutch Disease' refers to:
+A) Agricultural pest problem
+B) Economic effects of resource boom
+C) Industrial decline
+D) Trade deficit issue
+Answer: B
+50. Which factor contributes most to India's GDP growth volatility?
+A) Monsoon dependence
+B) Global oil prices
+C) Political instability
+D) Inflation rate
+Answer: A
+51. The Net National Product (NNP) is calculated as:
+A) GNP - Depreciation
+B) GDP - Depreciation
+C) GNP + Depreciation
+D) GDP + Net factor income
+Answer: A
+52. India's economic survey projects growth rate for 2024-25 as:
+A) 6.5-7.0%
+B) 7.0-7.5%
+C) 6.0-6.5%
+D) 7.5-8.0%
+Answer: A
+53. The Multidimensional Poverty Index (MPI) considers:
+A) Income only
+B) Health, education, and living standards
+C) Employment rate only
+D) GDP per capita only
+Answer: B
+54. Which economic theory supports government intervention during recession?
+A) Classical theory
+B) Keynesian theory
+C) Monetarist theory
+D) Supply-side theory
+Answer: B
+55. The term 'Jobless Growth' indicates:
+A) High GDP growth with low employment generation
+B) High employment with low growth
+C) Equal growth in all sectors
+D) Service sector dominance
+Answer: A
+56. The Reserve Bank of India was established in:
+A) 1935
+B) 1947
+C) 1949
+D) 1951
+Answer: A
+57. Which committee recommended the establishment of NABARD?
+A) Narasimham Committee
+B) Shivaraman Committee
+C) Kelkar Committee
+D) Rangarajan Committee
+Answer: B
+58. The repo rate is the rate at which:
+A) Banks lend to RBI
+B) RBI lends to banks
+C) Banks lend to customers
+D) Customers deposit in banks
+Answer: B
+59. Urban Cooperative Banks (UCBs) are regulated by:
+A) RBI only
+B) State governments only
+C) Both RBI and state governments
+D) Central government only
+Answer: C
+60. The current Cash Reserve Ratio (CRR) maintained by banks is:
+A) 3%
+B) 4%
+C) 4.5%
+D) 5%
+Answer: C
+61. Digital rupee (e₹) is India's:
+A) Cryptocurrency
+B) Central Bank Digital Currency (CBDC)
+C) Digital payment app
+D) Online banking system
+Answer: B
+62. UPI transactions in India crossed how many billion in 2023?
+A) 80 billion
+B) 90 billion
+C) 100 billion
+D) 110 billion
+Answer: C
+63. The Marginal Standing Facility (MSF) rate is typically:
+A) 25 basis points above repo rate
+B) 50 basis points above repo rate
+C) Equal to repo rate
+D) 100 basis points above repo rate
+Answer: A
+64. Which bank is known as the 'Banker's Bank'?
+A) State Bank of India
+B) Reserve Bank of India
+C) NABARD
+D) SIDBI
+Answer: B
+65. The Banking Regulation Act was passed in:
+A) 1947
+B) 1949
+C) 1950
+D) 1969
+Answer: B
+66. NBFC sector's asset size is approximately what percentage of banking sector?
+A) 15-18%
+B) 20-25%
+C) 30-35%
+D) 40-45%
+Answer: A
+67. The Statutory Liquidity Ratio (SLR) currently stands at:
+A) 18%
+B) 19.5%
+C) 20%
+D) 21%
+Answer: B
+68. Which institution regulates microfinance institutions?
+A) SEBI
+B) RBI
+C) NABARD
+D) Ministry of Finance
+Answer: B
+69. The Payments and Settlement Systems Act was enacted in:
+A) 2005
+B) 2007
+C) 2009
+D) 2011
+Answer: B
+70. Bank rate is currently:
+A) 6.75%
+B) 7.00%
+C) 6.50%
+D) 7.25%
+Answer: A
+71. The concept of Universal Banking allows:
+A) International operations only
+B) Both commercial and investment banking
+C) Only retail banking
+D) Agricultural lending only
+Answer: B
+72. Jan Aushadhi - Common Service Center initiative is related to:
+A) Financial inclusion
+B) Healthcare delivery
+C) Digital literacy
+D) Agricultural services
+Answer: B
+73. The Insolvency and Bankruptcy Code was implemented in:
+A) 2015B) 2016
+C) 2017
+D) 2018
+Answer: B
+74. Which regulatory body oversees credit rating agencies?
+A) RBI
+B) SEBI
+C) IRDAI
+D) NPCI
+Answer: B
+75. The deposit insurance coverage per depositor per bank is:
+A) ₹1 lakh
+B) ₹2 lakh
+C) ₹5 lakh
+D) ₹10 lakh
+Answer: C
+76. FASTag uses which technology?
+A) QR Code
+B) NFC
+C) RFID
+D) Bluetooth
+Answer: C
+77. The Lead Bank Scheme was introduced in:
+A) 1969
+B) 1970
+C) 1971
+D) 1972
+Answer: A
+78. Priority Sector Lending target for domestic banks is:
+A) 35%
+B) 40%
+C) 45%
+D) 50%
+Answer: B
+79. The National Electronic Funds Transfer (NEFT) operates:
+A) 24x7 throughout the year
+B) Business hours only
+C) 24 hours on weekdays
+D) Limited weekend hours
+Answer: A
+80. Which institution manages the Core Banking Solution (CBS)?
+A) Individual banks
+B) RBI
+C) NPCI
+D) Government of India
+Answer: A
+81. The Pradhan Mantri Mudra Yojana provides loans up to:
+A) ₹5 lakh
+B) ₹10 lakh
+C) ₹15 lakh
+D) ₹20 lakh
+Answer: B
+82. Account Aggregator framework is regulated by:
+A) RBI
+B) SEBI
+C) Both RBI and SEBI
+D) IRDAI
+Answer: C
+83. The Bharatiya Reserve Bank Note Mudran (BRBNM) was established in:
+A) 1995
+B) 1996
+C) 1997
+D) 1999
+Answer: C
+84. Which bank was the first to introduce ATM services in India?
+A) State Bank of India
+B) ICICI Bank
+C) HDFC Bank
+D) Hong Kong and Shanghai Banking Corporation
+Answer: D
+85. The Credit Guarantee Fund Trust for Micro and Small Enterprises is managed by:
+A) RBI
+B) SIDBI
+C) NABARD
+D) SBI
+Answer: B
+86. What is the minimum capital requirement for small finance banks?
+A) ₹100 crore
+B) ₹200 crore
+C) ₹300 crore
+D) ₹500 crore
+Answer: B
+
+87. The Securitisation and Reconstruction of Financial Assets and Enforcement of Security
+Interest Act (SARFAESI) was enacted in:
+A) 2000
+B) 2002
+C) 2004
+D) 2006
+Answer: B
+88. Which institution issues Letter of Credit for international trade?
+A) Export-Import Bank
+B) Commercial banks
+C) RBI
+D) Ministry of External Affairs
+Answer: B
+89. The Digital India Land Records Modernization Program aims to:
+A) Digitize land records
+B) Improve agriculture productivity
+C) Facilitate land acquisition
+D) All of the above
+Answer: D
+90. Base rate system was replaced by:
+A) Prime Lending Rate
+B) Marginal Cost of Funds based Lending Rate (MCLR)
+C) Repo linked rates
+D) Market determined rates
+Answer: B
+91. The Financial Stability and Development Council (FSDC) is headed by:
+A) Governor of RBI
+B) Finance Minister
+C) Prime Minister
+D) Cabinet Secretary
+Answer: B
+92. Which organization manages the Real Time Gross Settlement (RTGS) system?
+A) RBI
+B) NPCI
+C) SBI
+D) Ministry of Finance
+Answer: A
+93. The concept of 'Know Your Customer' (KYC) is primarily aimed at:
+A) Customer satisfaction
+B) Preventing money laundering
+C) Improving service quality
+
+D) Increasing deposits
+Answer: B
+94. Payment Banks can accept deposits up to:
+A) ₹1 lakh
+B) ₹2 lakh
+C) ₹5 lakh
+D) No limit
+Answer: A
+95. The Micro Units Development and Refinance Agency (MUDRA) Bank is a subsidiary of:
+A) RBI
+B) SBI
+C) NABARD
+D) SIDBI
+Answer: D
+96. Which act governs the functioning of cooperative banks?
+A) Banking Regulation Act
+B) Cooperative Societies Act
+C) Both A and B
+D) RBI Act
+Answer: C
+97. The prompt corrective action (PCA) framework is applicable to:
+A) All banks
+B) Public sector banks only
+C) Private sector banks only
+D) Weak banks with poor financial health
+Answer: D
+98. Digital payments as percentage of total payments in India is approximately:
+A) 60%
+B) 70%
+C) 80%
+D) 90%
+Answer: C
+99. The Banking Codes and Standards Board of India (BCSBI) was set up in:
+A) 2005
+B) 2006
+C) 2007
+D) 2008
+Answer: C
+100. Bharat Bill Payment System (BBPS) is operated by:
+A) RBI
+B) NPCI
+C) Individual banks
+D) Government of India
+Answer: B
+101. The minimum capital adequacy ratio (CAR) required for Indian banks is:
+A) 8%
+B) 9%
+C) 10%
+D) 11.5%
+Answer: B
+102. Which institution provides credit guarantee for MSMEs?
+A) SIDBI
+B) NABARD
+C) Credit Guarantee Fund Trust for MSEs
+D) All of the above
+Answer: C
+103. The Reserve Bank Information Technology (ReBIT) is:
+A) RBI's IT subsidiary
+B) Technology advisory body
+C) Digital payment platform
+D) Banking software
+Answer: A
+104. Foreign banks operating in India are regulated under:
+A) Companies Act
+B) Banking Regulation Act
+C) Foreign Exchange Management Act
+D) All of the above
+Answer: D
+105. The Interest Equalization Scheme provides subsidized credit for:
+A) Agriculture
+B) Exports
+C) MSMEs
+D) All of the above
+Answer: B
+106. Jan Dhan accounts opened under PMJDY crossed:
+A) 40 crore
+B) 45 crore
+C) 50 crore
+D) 55 crore
+Answer: C
+107. Which payment system allows instant 24x7 fund transfer?
+A) NEFTB) RTGS
+C) IMPS
+D) All of the above
+Answer: C
+108. The Deposit Insurance and Credit Guarantee Corporation (DICGC) is a subsidiary of:
+A) Government of India
+B) RBI
+C) SBI
+D) Ministry of Finance
+Answer: B
+109. Basel III norms primarily address:
+A) Credit risk
+B) Operational risk
+C) Capital adequacy
+D) All of the above
+Answer: D
+110. The Unified Payments Interface (UPI) 2.0 introduced:
+A) Overdraft facility
+B) Invoice payment feature
+C) International transactions
+D) Cryptocurrency support
+Answer: A
+111. Regional Rural Banks (RRBs) are sponsored by:
+A) Commercial banks
+B) State governments
+C) RBI
+D) NABARD
+Answer: A
+112. The Credit Information Bureau (India) Limited (CIBIL) maintains records for:
+A) 3 years
+B) 5 years
+C) 7 years
+D) 10 years
+Answer: C
+113. Which institution regulates Non-Banking Financial Companies (NBFCs)?
+A) SEBI
+B) RBI
+C) Ministry of Finance
+D) IRDAI
+Answer: B
+114. The Financial Intelligence Unit (FIU-IND) reports to:
+A) RBI
+B) Ministry of Home Affairs
+C) Ministry of Finance
+D) Prime Minister's Office
+Answer: C
+115. Bharat QR code was launched jointly by:
+A) RBI and banks
+B) NPCI and card networks
+C) Government and RBI
+D) Banks and fintech companies
+Answer: B
+116. The Goods and Services Tax Network (GSTN) payment gateway is managed by:
+A) Government of India
+B) RBI
+C) NPCI
+D) Private service providers
+Answer: D
+117. Which bank introduced the first credit card in India?
+A) Central Bank of India
+B) State Bank of India
+C) ICICI Bank
+D) HDFC Bank
+Answer: A
+118. The Banking Ombudsman Scheme is administered by:
+A) Indian Banks' Association
+B) RBI
+C) Ministry of Finance
+D) Consumer courts
+Answer: B
+119. Gold monetization scheme allows banks to:
+A) Accept gold deposits
+B) Provide gold loans
+C) Issue gold bonds
+D) All of the above
+Answer: A
+120. The External Benchmark based lending requires banks to link rates to:
+A) Repo rate
+B) Government bond yields
+C) RBI policy rates
+D) Any external benchmark
+Answer: A
+121. Aadhaar Enabled Payment System (AePS) allows:
+A) Cash withdrawal
+B) Balance inquiry
+C) Fund transfer
+D) All of the above
+Answer: D
+122. The Liquidity Coverage Ratio (LCR) under Basel III should be minimum:
+A) 80%
+B) 90%
+C) 100%
+D) 110%
+Answer: C
+123. Which institution provides crop insurance to farmers?
+A) NABARD
+B) Agricultural Insurance Company of India
+C) General insurance companies
+D) All of the above
+Answer: D
+124. The concept of Central Bank Digital Currency (CBDC) is being tested in:
+A) Wholesale segment only
+B) Retail segment only
+C) Both wholesale and retail
+D) International transactions only
+Answer: C
+125. Pre-paid Payment Instruments (PPIs) are regulated by:
+A) SEBI
+B) RBI
+C) NPCI
+D) Ministry of Electronics and IT
+Answer: B
+Section 3: Budget & Taxation (30 Questions)
+126. The Union Budget is presented in Parliament on:
+A) February 1st
+B) February 28th
+C) March 1st
+D) Last working day of February
+Answer: A
+127. The Goods and Services Tax (GST) was implemented on:
+A) July 1, 2016
+B) July 1, 2017
+C) April 1, 2017
+D) January 1, 2017
+Answer: B
+128. The highest GST rate slab is:
+A) 18%
+B) 24%
+C) 28%
+D) 30%
+Answer: C
+129. Capital gains tax on listed equity shares held for more than one year is:
+A) 10%
+B) 15%
+C) 20%
+D) Nil up to ₹1 lakh
+Answer: A
+130. The fiscal deficit target for 2024-25 is:
+A) 4.5% of GDP
+B) 5.1% of GDP
+C) 5.9% of GDP
+D) 6.2% of GDP
+Answer: B
+131. Direct tax collections include:
+A) Income tax and corporate tax
+B) Customs duty
+C) Excise duty
+D) Service tax
+Answer: A
+132. The Consolidated Fund of India consists of:
+A) All government revenues
+B) Tax revenues only
+C) Non-tax revenues only
+D) Borrowings only
+Answer: A
+133. GST compensation cess is levied on:
+A) All goods and services
+B) Luxury and sin goods
+C) Essential commodities
+D) Export goods
+Answer: B
+134. The Finance Commission is constituted every:
+A) 3 years
+B) 4 years
+C) 5 years
+D) 6 years
+Answer: C
+135. Tax law simplification aims to:
+A) Reduce tax rates
+B) Minimize compliance burden
+C) Increase tax collection
+D) All of the above
+Answer: D
+136. The Minimum Alternate Tax (MAT) rate for companies is:
+A) 15%
+B) 18.5%
+C) 21%
+D) 25%
+Answer: A
+137. Which tax is levied by the central government but collected by states?
+A) Income tax
+B) Corporate tax
+C) Stamp duty
+D) Service tax
+Answer: C
+138. The Goods and Services Tax Council is headed by:
+A) Prime Minister
+B) Finance Minister
+C) President
+D) GST Commissioner
+Answer: B
+139. Revenue deficit occurs when:
+A) Total expenditure > Total revenue
+B) Revenue expenditure > Revenue receipts
+C) Capital expenditure > Capital receipts
+D) Fiscal deficit > Primary deficit
+Answer: B
+140. The current corporate tax rate for domestic companies is:
+A) 25%
+B) 30%
+C) 35%
+D) 40%
+Answer: B
+141. Input Tax Credit (ITC) under GST can be claimed for:
+A) Capital goods only
+B) Input services only
+C) Both capital goods and input services
+D) Neither capital goods nor input services
+Answer: C
+142. The National Food Security Act allocation in budget is under:
+A) Revenue expenditure
+B) Capital expenditure
+C) Transfer payments
+D) Loans and advances
+Answer: A
+143. Dividend Distribution Tax (DDT) was:
+A) Abolished in 2020
+B) Reduced to 15%
+C) Increased to 25%
+D) Transferred to shareholders
+Answer: A
+144. The Contingency Fund of India can be operated by:
+A) Parliament
+B) President
+C) Prime Minister
+D) Finance Minister
+Answer: B
+145. GST return filing frequency for regular taxpayers is:
+A) Monthly
+B) Quarterly
+C) Half-yearly
+D) Annually
+Answer: A
+146. The Angel Tax provisions apply to:
+A) All companies
+B) Unlisted companies only
+C) Listed companies only
+D) Startups specifically
+Answer: B
+147. Primary deficit is calculated as:
+A) Fiscal deficit - Interest payments
+B) Revenue deficit - Interest payments
+C) Total expenditure - Total receipts
+D) Capital expenditure - Capital receipts
+Answer: A
+
+148. The Long Term Capital Gains (LTCG) tax on equity shares was reintroduced in:
+A) 2017-18
+B) 2018-19
+C) 2019-20
+D) 2020-21
+Answer: A
+149. State GST (SGST) and Central GST (CGST) together are equivalent to:
+A) Service tax
+B) VAT
+C) Excise duty
+D) Integrated GST (IGST)
+Answer: D
+150. The Expenditure Budget consists of:
+A) Revenue and capital expenditure
+B) Plan and non-plan expenditure
+C) Development and non-development expenditure
+D) All of the above
+Answer: A
+151. Tax collection efficiency in India is measured by:
+A) Tax-to-GDP ratio
+B) Direct to indirect tax ratio
+C) Compliance rate
+D) All of the above
+Answer: D
+152. The Fiscal Responsibility and Budget Management (FRBM) Act was enacted in:
+A) 2003
+B) 2004
+C) 2005
+D) 2006
+Answer: A
+153. Zero-rated supplies under GST include:
+A) Exports
+B) Supplies to SEZ
+C) Both exports and supplies to SEZ
+D) Essential commodities
+Answer: C
+154. The Union Excise Duty was subsumed under:
+A) GST
+B) Income tax
+C) Customs duty
+D) Service tax
+Answer: A
+
+155. Budget allocation for rural development in 2024-25 is approximately:
+A) ₹1.5 lakh crore
+B) ₹2.0 lakh crore
+C) ₹2.5 lakh crore
+D) ₹3.0 lakh crore
+Answer: C
+
+Section 4: External Sector & International Economic Organisation (55 Questions)
+156. India's current account deficit in 2023-24 was:
+A) 0.7% of GDP
+B) 1.2% of GDP
+C) 2.1% of GDP
+D) 2.8% of GDP
+Answer: A
+157. The World Trade Organization (WTO) was established in:
+A) 1994
+B) 1995
+C) 1996
+D) 1997
+Answer: B
+158. India's largest trading partner is:
+A) USA
+B) China
+C) UAE
+D) Saudi Arabia
+Answer: B
+159. The International Monetary Fund (IMF) has how many member countries?
+A) 189
+B) 190
+C) 191
+D) 192
+Answer: B
+160. BRICS New Development Bank is headquartered in:
+A) Beijing
+B) Mumbai
+C) Shanghai
+D) New Delhi
+Answer: C
+161. India's foreign exchange reserves crossed:
+A) $600 billion
+B) $650 billion
+C) $700 billion
+
+D) $750 billion
+Answer: B
+162. The Asian Infrastructure Investment Bank (AIIB) was established in:
+A) 2014
+B) 2015
+C) 2016
+D) 2017
+Answer: C
+163. India's share in world merchandise exports is approximately:
+A) 1.5%
+B) 1.8%
+C) 2.1%
+D) 2.5%
+Answer: B
+164. The Bretton Woods Conference was held in:
+A) 1943
+B) 1944
+C) 1945
+D) 1946
+Answer: B
+165. Foreign Direct Investment (FDI) inflows to India in 2023-24 were approximately:
+A) $65 billion
+B) $71 billion
+C) $83 billion
+D) $91 billion
+Answer: B
+166. The World Bank Group consists of how many institutions?
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: C
+167. India's merchandise trade deficit in 2023-24 was approximately:
+A) $220 billion
+B) $240 billion
+C) $260 billion
+D) $280 billion
+Answer: C
+168. The G20 presidency was held by India in:
+A) 2022
+B) 2023
+C) 2024
+D) 2025
+Answer: B
+169. Regional Comprehensive Economic Partnership (RCEP) includes:
+A) 15 countries
+B) 16 countries
+C) 17 countries
+D) 18 countries
+Answer: A
+170. India's services exports in 2023-24 were approximately:
+A) $320 billion
+B) $340 billion
+C) $360 billion
+D) $380 billion
+Answer: B
+171. The Most Favoured Nation (MFN) principle is associated with:
+A) IMF
+B) World Bank
+C) WTO
+D) UNCTAD
+Answer: C
+172. India's rank in the Global Innovation Index 2023 is:
+A) 40th
+B) 42nd
+C) 45th
+D) 48th
+Answer: A
+173. The Shanghai Cooperation Organisation (SCO) was established in:
+A) 1999
+B) 2001
+C) 2003
+D) 2005
+Answer: B
+174. Foreign Portfolio Investment (FPI) limit in government securities is:
+A) 2% of outstanding stock
+B) 4% of outstanding stock
+C) 6% of outstanding stock
+D) 8% of outstanding stock
+Answer: C
+175. The Trans-Pacific Partnership (TPP) is now known as:
+A) RCEP
+B) CPTPP
+C) USMCA
+D) ASEAN+6
+Answer: B
+176. India's largest source of FDI is:
+A) Singapore
+B) Mauritius
+C) USA
+D) Netherlands
+Answer: A
+177. The International Labour Organization (ILO) is a specialized agency of:
+A) World Bank
+B) IMF
+C) United Nations
+D) WTO
+Answer: C
+178. Balance of Payments crisis in India occurred in:
+A) 1990
+B) 1991
+C) 1992
+D) 1993
+Answer: B
+179. India's software exports are primarily to:
+A) Europe
+B) USA
+C) Asia-Pacific
+D) Middle East
+Answer: B
+180. The Doha Development Round is associated with:
+A) WTO
+B) UNCTAD
+C) World Bank
+D) IMF
+Answer: A
+181. Special Drawing Rights (SDR) are issued by:
+A) World Bank
+B) IMF
+C) Bank for International Settlements
+D) Federal Reserve
+Answer: B
+182. India's rank in the World Bank's Ease of Doing Business (2020) was:
+A) 63rd
+B) 77th
+C) 100th
+D) 142nd
+Answer: A
+183. The QUAD partnership includes:
+A) India, USA, Japan, Australia
+B) India, USA, Japan, UK
+C) India, USA, Australia, Canada
+D) India, Japan, Australia, South Korea
+Answer: A
+184. Currency swap arrangements help in:
+A) Trade facilitation
+B) Financial stability
+C) Exchange rate management
+D) All of the above
+Answer: D
+185. India's pharmaceutical exports are approximately:
+A) $20 billion
+B) $25 billion
+C) $30 billion
+D) $35 billion
+Answer: B
+186. The International Finance Corporation (IFC) is part of:
+A) IMF
+B) World Bank Group
+C) Asian Development Bank
+D) United Nations
+Answer: B
+187. India's textile exports face competition mainly from:
+A) China and Bangladesh
+B) Vietnam and Thailand
+C) Turkey and Egypt
+D) All of the above
+Answer: D
+188. The Foreign Exchange Management Act (FEMA) replaced:
+A) Foreign Exchange Regulation Act (FERA)
+B) Companies Act
+C) Banking Regulation Act
+D) Securities and Exchange Board Act
+Answer: A
+189. Rupee internationalization refers to:
+A) Use of rupee in international trade
+B) Making rupee fully convertible
+C) Using rupee as reserve currency
+D) All of the above
+Answer: D
+190. India's auto exports are mainly to:
+A) USA and Europe
+B) ASEAN countries
+C) Africa and Latin America
+D) Middle East
+Answer: C
+191. The International Solar Alliance (ISA) is headquartered in:
+A) New Delhi, India
+B) Paris, France
+C) Gurugram, India
+D) Geneva, Switzerland
+Answer: C
+192. Free Trade Agreements (FTAs) signed by India include:
+A) India-ASEAN FTA
+B) India-Korea CEPA
+C) India-Japan EPA
+D) All of the above
+Answer: D
+193. De-dollarization efforts by BRICS aim to:
+A) Reduce US dollar dependence
+B) Promote local currency trade
+C) Create alternative payment systems
+D) All of the above
+Answer: D
+194. India's engineering exports are approximately:
+A) $100 billion
+B) $110 billion
+C) $120 billion
+D) $130 billion
+Answer: B
+195. The World Trade Organization dispute settlement mechanism:
+A) Is binding on member countries
+B) Involves panel and appellate review
+C) Can authorize trade retaliation
+D) All of the above
+Answer: D
+196. India's gems and jewelry exports are mainly to:
+A) USA
+B) UAE
+C) Hong Kong
+D) All of the above
+Answer: D
+197. The Asia-Pacific Economic Cooperation (APEC) includes:
+A) 21 member economies
+B) 25 member economies
+C) 18 member economies
+D) 30 member economies
+Answer: A
+198. Foreign investment in defense sector is allowed up to:
+A) 49% automatic route
+B) 74% automatic route
+C) 100% automatic route
+D) 49% automatic, 100% government route
+Answer: D
+199. India's maritime trade constitutes approximately:
+A) 85% by volume
+B) 90% by volume
+C) 95% by volume
+D) 99% by volume
+Answer: C
+200. The International Monetary and Financial Committee (IMFC) is the policy advisory body
+of:
+A) World Bank
+B) IMF
+C) Bank for International Settlements
+D) Federal Reserve
+Answer: B
+201. India-UAE Comprehensive Economic Partnership Agreement (CEPA) was signed in:
+A) 2021
+B) 2022
+C) 2023
+D) 2024
+Answer: B
+202. The World Bank's International Development Association (IDA) provides:
+A) Commercial loans
+B) Concessional loans
+C) Grants only
+
+D) Technical assistance only
+Answer: B
+203. India's rank in the Global Competitiveness Index is approximately:
+A) 40th
+B) 50th
+C) 60th
+D) 70th
+Answer: C
+204. Foreign investment in single-brand retail is allowed up to:
+A) 49%
+B) 51%
+C) 74%
+D) 100%
+Answer: D
+205. The OECD (Organisation for Economic Co-operation and Development) has how many
+member countries?
+A) 35
+B) 36
+C) 37
+D) 38
+Answer: D
+206. India's crude oil imports are mainly from:
+A) Iraq and Saudi Arabia
+B) Iran and Kuwait
+C) UAE and Russia
+D) All of the above
+Answer: D
+207. The International Centre for Settlement of Investment Disputes (ICSID) is part of:
+A) IMF
+B) World Bank Group
+C) WTO
+D) United Nations
+Answer: B
+208. India's IT services exports contribute approximately what percentage to total services
+exports?
+A) 40%
+B) 50%
+C) 60%
+D) 70%
+Answer: B
+
+209. The African Development Bank (AfDB) is headquartered in:
+A) Cairo, Egypt
+B) Lagos, Nigeria
+C) Abidjan, Côte d'Ivoire
+D) Tunis, Tunisia
+Answer: C
+210. India's trade with Latin America is approximately:
+A) $25 billion
+B) $35 billion
+C) $45 billion
+D) $55 billion
+Answer: C
+
+Section 5: Trade (25 Questions)
+211. India's merchandise exports in 2023-24 were approximately:
+A) $420 billion
+B) $437 billion
+C) $450 billion
+D) $465 billion
+Answer: B
+212. The Trade Infrastructure for Export Scheme (TIES) is implemented by:
+A) Ministry of Commerce and Industry
+B) Ministry of External Affairs
+C) Department of Economic Affairs
+D) Export-Import Bank of India
+Answer: A
+213. India's largest export destination is:
+A) USA
+B) China
+C) UAE
+D) UK
+Answer: A
+214. The Merchandise Exports from India Scheme (MEIS) was replaced by:
+A) RoDTEP
+B) SEIS
+C) Focus Market Scheme
+D) EPCG Scheme
+Answer: A
+215. Export-Import Policy is announced:
+A) Annually
+B) Every two years
+C) Every five years
+
+D) As and when required
+Answer: C
+216. India's share in world services exports is approximately:
+A) 3.5%
+B) 4.1%
+C) 4.8%
+D) 5.2%
+Answer: B
+217. The Export Credit Guarantee Corporation (ECGC) provides:
+A) Export finance
+B) Export insurance
+C) Export promotion
+D) Export documentation
+Answer: B
+218. Special Economic Zones (SEZs) in India are governed by:
+A) SEZ Act, 2005
+B) Companies Act
+C) Industrial Policy
+D) Foreign Trade Policy
+Answer: A
+219. Tariff rationalization aims to:
+A) Reduce number of tariff lines
+B) Simplify tariff structure
+C) Reduce average tariff rates
+D) All of the above
+Answer: D
+220. India's largest import is:
+A) Crude oil
+B) Gold
+C) Electronic goods
+D) Machinery
+Answer: A
+221. The India Brand Equity Foundation (IBEF) promotes:
+A) Domestic brands
+B) Export promotion
+C) Foreign investment
+D) All of the above
+Answer: D
+222. Advance Authorization Scheme allows:
+A) Duty-free import of inputs
+B) Export obligation
+
+C) Both A and B
+D) Neither A nor B
+Answer: C
+223. India's agricultural exports are approximately:
+A) $40 billion
+B) $50 billion
+C) $60 billion
+D) $70 billion
+Answer: B
+224. The Directorate General of Trade Remedies (DGTR) handles:
+A) Anti-dumping investigations
+B) Safeguard measures
+C) Countervailing duties
+D) All of the above
+Answer: D
+225. Export Promotion Capital Goods (EPCG) Scheme provides:
+A) Duty-free import of capital goods
+B) Export obligation
+C) Both A and B
+D) Technology upgradation
+Answer: C
+226. India's handicrafts exports are approximately:
+A) $2.5 billion
+B) $3.5 billion
+C) $4.5 billion
+D) $5.5 billion
+Answer: B
+227. The Trade Facilitation Agreement (TFA) is part of:
+A) WTO Bali Package
+B) Doha Round
+C) Uruguay Round
+D) Tokyo Round
+Answer: A
+228. Electronic Way Bills (e-Way Bills) are required for:
+A) Inter-state movement of goods
+B) Intra-state movement of goods
+C) Both inter-state and intra-state
+D) Export-import transactions
+Answer: C
+229. India's leather exports are mainly to:
+A) Germany and USA
+
+B) Italy and UK
+C) Spain and France
+D) All of the above
+Answer: D
+230. The Remission of Duties and Taxes on Exported Products (RoDTEP) scheme covers:
+A) Central taxes and duties
+B) State taxes and duties
+C) Both central and state taxes
+D) Local taxes only
+Answer: C
+231. Marine Products Export Development Authority (MPEDA) is under:
+A) Ministry of Commerce and Industry
+B) Ministry of Fisheries
+C) Ministry of External Affairs
+D) Ministry of Agriculture
+Answer: B
+232. India's spices exports contribute approximately:
+A) $2 billion
+B) $3 billion
+C) $4 billion
+D) $5 billion
+Answer: C
+233. The Comprehensive Economic Partnership Agreement (CEPA) with South Korea was
+signed in:
+A) 2008
+B) 2009
+C) 2010
+D) 2011
+Answer: C
+234. Export houses are classified based on:
+A) Export performance
+B) Import performance
+C) Net foreign exchange earnings
+D) All of the above
+Answer: A
+235. India's coffee exports are mainly:
+A) Arabica variety
+B) Robusta variety
+C) Both Arabica and Robusta
+D) Instant coffee
+Answer: C
+
+Section 6: India's Financial Market (45 Questions)
+236. The Securities and Exchange Board of India (SEBI) was established in:
+A) 1988
+B) 1992
+C) 1995
+D) 1996
+Answer: A
+237. The National Stock Exchange (NSE) was established in:
+A) 1992
+B) 1993
+C) 1994
+D) 1995
+Answer: B
+238. Green bonds are used to finance:
+A) Environmental projects
+B) Renewable energy projects
+C) Climate change mitigation
+D) All of the above
+Answer: D
+239. Real Estate Investment Trusts (REITs) were introduced in India in:
+A) 2014
+B) 2015
+C) 2017
+D) 2019
+Answer: A
+240. The benchmark index of NSE is:
+A) Sensex
+B) Nifty 50
+C) BSE 100
+D) CNX 500
+Answer: B
+241. Infrastructure Investment Trusts (InvITs) can invest in:
+A) Roads and highways
+B) Power transmission
+C) Telecommunications
+D) All of the above
+Answer: D
+242. The Securities Contracts Regulation Act was passed in:
+A) 1952
+B) 1956
+C) 1962
+
+D) 1966
+Answer: B
+243. Foreign Portfolio Investors (FPI) registration is valid for:
+A) 1 year
+B) 3 years
+C) 5 years
+D) 10 years
+Answer: B
+244. The Depository Participants (DP) provide:
+A) Demat services
+B) Trading services
+C) Investment advisory
+D) Portfolio management
+Answer: A
+245. Sovereign Gold Bonds are issued by:
+A) Reserve Bank of India
+B) Government of India
+C) Securities and Exchange Board of India
+D) Bombay Stock Exchange
+Answer: A
+246. The Alternative Investment Funds (AIF) are categorized into:
+A) 2 categories
+B) 3 categories
+C) 4 categories
+D) 5 categories
+Answer: B
+247. Social Stock Exchange (SSE) was launched by:
+A) NSE
+B) BSE
+C) Both NSE and BSE
+D) SEBI
+Answer: C
+248. The minimum public shareholding for listed companies is:
+A) 20%
+B) 25%
+C) 30%
+D) 35%
+Answer: B
+249. Credit rating agencies in India include:
+A) CRISIL and ICRA
+B) CARE and Fitch
+
+C) India Ratings
+D) All of the above
+Answer: D
+250. The maximum Foreign Direct Investment (FDI) in stock exchanges is:
+A) 49%
+B) 51%
+C) 74%
+D) 100%
+Answer: A
+251. Participatory Notes (P-Notes) are issued by:
+A) SEBI
+B) RBI
+C) Foreign Institutional Investors
+D) Domestic mutual funds
+Answer: C
+252. The Corporate Bond Market in India is dominated by:
+A) Private placement
+B) Public issues
+C) Government bonds
+D) Municipal bonds
+Answer: A
+253. Small and Medium Enterprises (SME) platform is available on:
+A) BSE only
+B) NSE only
+C) Both BSE and NSE
+D) Regional stock exchanges
+Answer: C
+254. The Investor Protection and Education Fund (IPEF) is maintained by:
+A) SEBI
+B) Ministry of Corporate Affairs
+C) RBI
+D) Insurance companies
+Answer: B
+255. Commodity derivatives trading is regulated by:
+A) SEBI
+B) Forward Markets Commission
+C) RBI
+D) Ministry of Consumer Affairs
+Answer: A
+256. The National Securities Depository Limited (NSDL) was established in:
+A) 1993
+
+B) 1995
+C) 1996
+D) 1999
+Answer: C
+257. Mutual fund assets under management (AUM) in India is approximately:
+A) ₹35 lakh crore
+B) ₹42 lakh crore
+C) ₹47 lakh crore
+D) ₹52 lakh crore
+Answer: C
+258. The Security Interest Enforcement Rules were notified in:
+A) 2002
+B) 2004
+C) 2006
+D) 2008
+Answer: A
+259. Electronic Settlement Mechanism in securities market is operated by:
+A) Stock exchanges
+B) Clearing corporations
+C) Depositories
+D) All of the above
+Answer: D
+260. Initial Public Offering (IPO) pricing can be:
+A) Fixed price only
+B) Book building only
+C) Both fixed price and book building
+D) Auction based only
+Answer: C
+261. The Insurance Regulatory and Development Authority (IRDAI) regulates:
+A) Life insurance only
+B) General insurance only
+C) Both life and general insurance
+D) Reinsurance only
+Answer: C
+262. Gold Exchange Traded Funds (ETF) track:
+A) Gold prices
+B) Gold mining stocks
+C) Jewelry companies
+D) Gold futures
+Answer: A
+
+263. The Central Depository Services Limited (CDSL) was established in:
+A) 1997
+B) 1998
+C) 1999
+D) 2000
+Answer: C
+264. Foreign Venture Capital Investors (FVCI) can invest in:
+A) Listed securities only
+B) Unlisted securities only
+C) Both listed and unlisted securities
+D) Debt securities only
+Answer: C
+265. The concept of 'Systematic Investment Plan' (SIP) is associated with:
+A) Fixed deposits
+B) Mutual funds
+C) Insurance policies
+D) Government bonds
+Answer: B
+266. Commodity Transaction Tax (CTT) is levied on:
+A) Agricultural commodities
+B) Non-agricultural commodities
+C) All commodity transactions
+D) Export of commodities
+Answer: C
+267. The Multi Commodity Exchange (MCX) deals primarily in:
+A) Agricultural commodities
+B) Energy and metals
+C) Both agricultural and non-agricultural
+D) Financial derivatives
+Answer: B
+268. Capital market instruments include:
+A) Equity shares and debentures
+B) Commercial paper
+C) Certificate of deposits
+D) Treasury bills
+Answer: A
+269. The concept of 'Dividend Yield' represents:
+A) Dividend per share / Market price per share
+B) Market price per share / Dividend per share
+C) Dividend / Net profit
+D) Market capitalization / Dividend
+Answer: A
+
+270. Regional Stock Exchanges in India include:
+A) Calcutta Stock Exchange
+B) Madras Stock Exchange
+C) Delhi Stock Exchange
+D) All of the above
+Answer: D
+271. The Employee Stock Option Plan (ESOP) allows employees to:
+A) Buy company shares at discounted rate
+B) Sell company shares at premium
+C) Get free company shares
+D) Trade in company shares
+Answer: A
+272. Corporate governance norms for listed companies are prescribed by:
+A) Companies Act
+B) SEBI Listing Regulations
+C) RBI guidelines
+D) Both A and B
+Answer: D
+273. The concept of 'Market Making' involves:
+A) Creating new markets
+B) Providing liquidity to securities
+C) Marketing securities
+D) Price discovery mechanism
+Answer: B
+274. Unit Linked Insurance Plans (ULIP) combine:
+A) Insurance and investment
+B) Banking and insurance
+C) Investment and savings
+D) Insurance and loans
+Answer: A
+275. The Foreign Exchange Derivatives market includes:
+A) Currency futures
+B) Currency options
+C) Currency swaps
+D) All of the above
+Answer: D
+276. Angel investors typically invest in:
+A) Established companies
+B) Start-up companies
+C) Government securities
+D) Real estate
+Answer: B
+
+277. The concept of 'Beta' in finance measures:
+A) Company's profitability
+B) Stock's volatility relative to market
+C) Dividend yield
+D) Price-earnings ratio
+Answer: B
+278. Venture Capital funds are regulated under:
+A) SEBI (AIF) Regulations
+B) Companies Act
+C) RBI guidelines
+D) IRDAI regulations
+Answer: A
+279. The National Spot Exchange Limited (NSEL) dealt in:
+A) Agricultural commodities
+B) Spot delivery contracts
+C) Financial derivatives
+D) Currency trading
+Answer: B
+280. Exchange Traded Funds (ETF) can track:
+A) Stock indices
+B) Commodity prices
+C) Government bonds
+D) All of the above
+Answer: D
+
+Section 7: Industry & Infrastructure (80 Questions)
+281. The Make in India initiative was launched in:
+A) 2013
+B) 2014
+C) 2015
+D) 2016
+Answer: B
+282. India's rank in the Global Manufacturing Competitiveness Index is:
+A) 32nd
+B) 35th
+C) 39th
+D) 42nd
+Answer: C
+283. The Production Linked Incentive (PLI) scheme covers how many sectors?
+A) 13
+B) 14
+C) 15
+
+D) 16
+Answer: B
+284. India's steel production capacity target by 2030 is:
+A) 250 million tonnes
+B) 300 million tonnes
+C) 350 million tonnes
+D) 400 million tonnes
+Answer: B
+285. The Startup India initiative was launched in:
+A) 2015
+B) 2016
+C) 2017
+D) 2018
+Answer: B
+286. India's rank in the Global Innovation Index 2023 is:
+A) 38th
+B) 40th
+C) 42nd
+D) 45th
+Answer: B
+287. The National Industrial Corridor Development Programme includes:
+A) Delhi-Mumbai Industrial Corridor
+B) Chennai-Bengaluru Industrial Corridor
+C) East Coast Economic Corridor
+D) All of the above
+Answer: D
+288. Pradhan Mantri Gati Shakti plan focuses on:
+A) Transportation infrastructure
+B) Multimodal connectivity
+C) Industrial development
+D) All of the above
+Answer: D
+289. India's automobile production ranks globally at:
+A) 3rd position
+B) 4th position
+C) 5th position
+D) 6th position
+Answer: B
+290. The Smart Cities Mission aims to develop:
+A) 50 cities
+B) 75 cities
+C) 100 cities
+D) 150 cities
+Answer: C
+291. Digital India programme was launched in:
+A) 2014
+B) 2015
+C) 2016
+D) 2017
+Answer: B
+292. India's pharmaceutical market size is approximately:
+A) $40 billion
+B) $45 billion
+C) $50 billion
+D) $55 billion
+Answer: C
+293. The Atal Innovation Mission (AIM) is under:
+A) Ministry of Science and Technology
+B) NITI Aayog
+C) Ministry of Education
+D) Ministry of Electronics and IT
+Answer: B
+294. India's textiles and apparel market size is approximately:
+A) $120 billion
+B) $140 billion
+C) $160 billion
+D) $180 billion
+Answer: C
+295. The National Infrastructure Pipeline (NIP) envisages investment of:
+A) ₹100 lakh crore
+B) ₹111 lakh crore
+C) ₹125 lakh crore
+D) ₹150 lakh crore
+Answer: B
+296. Sagarmala Project aims to:
+A) Port modernization
+B) Coastal shipping development
+C) Port connectivity enhancement
+D) All of the above
+Answer: D
+297. India's renewable energy capacity target by 2030 is:
+A) 450 GW
+B) 500 GW
+C) 550 GW
+D) 600 GW
+Answer: B
+298. The Bharatmala Pariyojana focuses on:
+A) Highway development
+B) Rural connectivity
+C) Border connectivity
+D) All of the above
+Answer: D
+299. India's IT industry revenue is approximately:
+A) $180 billion
+B) $194 billion
+C) $210 billion
+D) $225 billion
+Answer: B
+300. The Pradhan Mantri Mudra Yojana supports:
+A) Micro enterprises
+B) Small enterprises
+C) Medium enterprises
+D) All MSME categories
+Answer: A
+301. India's coal production target by 2030 is:
+A) 1.2 billion tonnes
+B) 1.5 billion tonnes
+C) 1.8 billion tonnes
+D) 2.0 billion tonnes
+Answer: A
+302. The Skill India Mission was launched in:
+A) 2014
+B) 2015
+C) 2016
+D) 2017
+Answer: B
+303. India's defense production value is approximately:
+A) ₹80,000 crore
+B) ₹95,000 crore
+C) ₹1,08,000 crore
+D) ₹1,25,000 crore
+Answer: C
+
+304. The Dedicated Freight Corridor covers:
+A) Eastern and Western corridors
+B) Northern and Southern corridors
+C) Central and Coastal corridors
+D) All of the above
+Answer: A
+305. India's semiconductor mission envisages investment of:
+A) ₹50,000 crore
+B) ₹76,000 crore
+C) ₹1,00,000 crore
+D) ₹1,25,000 crore
+Answer: B
+306. The Industrial Park Scheme is implemented by:
+A) Ministry of Commerce and Industry
+B) Ministry of MSME
+C) State governments
+D) All of the above
+Answer: D
+307. India's chemical industry size is approximately:
+A) $150 billion
+B) $178 billion
+C) $200 billion
+D) $225 billion
+Answer: B
+308. The Hydrogen Mission aims to make India a:
+A) Hydrogen exporter
+B) Green hydrogen hub
+C) Hydrogen technology leader
+D) All of the above
+Answer: D
+309. India's aviation sector passengers (domestic) per annum:
+A) 120 million
+B) 140 million
+C) 160 million
+D) 180 million
+Answer: B
+310. The Space sector reforms allow:
+A) Private sector participation
+B) FDI up to 100%
+C) Technology transfer
+D) All of the above
+Answer: D
+
+311. India's electronics manufacturing value is approximately:
+A) $60 billion
+B) $75 billion
+C) $85 billion
+D) $95 billion
+Answer: B
+312. The Drone Rules 2021 allow:
+A) Commercial operations
+B) Research and development
+C) Export of drones
+D) All of the above
+Answer: D
+313. India's logistics cost as percentage of GDP is approximately:
+A) 12%
+B) 14%
+C) 16%
+D) 18%
+Answer: B
+314. The PM GatiShakti National Master Plan covers:
+A) Economic zones
+B) Industrial corridors
+C) Transportation networks
+D) All of the above
+Answer: D
+315. India's electric vehicle market size by 2030 is projected at:
+A) $60 billion
+B) $75 billion
+C) $90 billion
+D) $105 billion
+Answer: C
+316. The National Biotechnology Development Strategy aims for:
+A) $100 billion bioeconomy by 2025
+B) $150 billion bioeconomy by 2025
+C) $200 billion bioeconomy by 2025
+D) $300 billion bioeconomy by 2025
+Answer: D
+317. India's food processing industry size is approximately:
+A) $250 billion
+B) $300 billion
+C) $350 billion
+D) $400 billion
+Answer: C
+
+318. The Atmanirbhar Bharat Package announced in 2020 was worth:
+A) ₹15 lakh crore
+B) ₹20 lakh crore
+C) ₹25 lakh crore
+D) ₹30 lakh crore
+Answer: B
+319. India's mining sector contribution to GDP is approximately:
+A) 1.5%
+B) 2.2%
+C) 2.8%
+D) 3.2%
+Answer: B
+320. The National Educational Policy (NEP) 2020 aims to increase gross enrollment ratio in
+higher education to:
+A) 45%
+B) 50%
+C) 55%
+D) 60%
+Answer: B
+321. India's renewable energy installed capacity is approximately:
+A) 120 GW
+B) 140 GW
+C) 160 GW
+D) 180 GW
+Answer: D
+322. The Faster Adoption and Manufacturing of Electric Vehicles (FAME) scheme provides:
+A) Purchase incentives
+B) Charging infrastructure
+C) Technology development support
+D) All of the above
+Answer: D
+323. India's toy market size is approximately:
+A) $1.2 billion
+B) $1.5 billion
+C) $1.8 billion
+D) $2.1 billion
+Answer: B
+324. The National Logistics Policy aims to reduce logistics cost to:
+A) 10% of GDP by 2030
+B) 8% of GDP by 2030
+C) 12% of GDP by 2030
+
+D) 15% of GDP by 2030
+Answer: B
+325. India's gems and jewelry industry size is approximately:
+A) $75 billion
+B) $85 billion
+C) $95 billion
+D) $105 billion
+Answer: A
+326. The Pradhan Mantri Krishi Sinchai Yojana focuses on:
+A) Irrigation infrastructure
+B) Water conservation
+C) Micro-irrigation
+D) All of the above
+Answer: D
+327. India's furniture industry size is approximately:
+A) $15 billion
+B) $18 billion
+C) $21 billion
+D) $24 billion
+Answer: B
+328. The Jal Jeevan Mission aims to provide:
+A) Tap water connections to all rural households
+B) Urban water supply improvement
+C) Water conservation
+D) All of the above
+Answer: A
+329. India's sports industry size is approximately:
+A) $1.5 billion
+B) $2.0 billion
+C) $2.5 billion
+D) $3.0 billion
+Answer: C
+330. The Production Linked Incentive for Large Scale Electronics Manufacturing targets:
+A) Mobile phones
+B) IT hardware
+C) Electronic components
+D) All of the above
+Answer: D
+331. India's leather industry size is approximately:
+A) $12 billion
+B) $15 billion
+C) $18 billion
+D) $21 billion
+Answer: C
+332. The National Apprenticeship Promotion Scheme aims to:
+A) Create skilled workforce
+B) Industry-academia partnership
+C) Employment generation
+D) All of the above
+Answer: D
+333. India's cosmetics industry size is approximately:
+A) $8 billion
+B) $10 billion
+C) $12 billion
+D) $15 billion
+Answer: C
+334. The Scheme for Promotion of Manufacturing of Electronic Components and
+Semiconductors (SPECS) provides:
+A) Financial incentives
+B) Infrastructure support
+C) Technology transfer
+D) All of the above
+Answer: A
+335. India's hotel and tourism industry size is approximately:
+A) $200 billion
+B) $250 billion
+C) $300 billion
+D) $350 billion
+Answer: B
+336. The Emergency Credit Line Guarantee Scheme (ECLGS) was launched during:
+A) Economic slowdown
+B) COVID-19 pandemic
+C) Financial crisis
+D) Natural disaster
+Answer: B
+337. India's entertainment and media industry size is approximately:
+A) $18 billion
+B) $22 billion
+C) $26 billion
+D) $30 billion
+Answer: B
+
+338. The PM Kisan Samman Nidhi provides:
+A) ₹6,000 per year to farmers
+B) ₹8,000 per year to farmers
+C) ₹10,000 per year to farmers
+D) ₹12,000 per year to farmers
+Answer: A
+339. India's wellness industry size is approximately:
+A) $10 billion
+B) $12 billion
+C) $15 billion
+D) $18 billion
+Answer: C
+340. The Ayushman Bharat scheme covers:
+A) Health insurance for poor families
+B) Health and wellness centers
+C) Digital health infrastructure
+D) All of the above
+Answer: D
+341. India's education technology market size is approximately:
+A) $2 billion
+B) $3 billion
+C) $4 billion
+D) $5 billion
+Answer: C
+342. The National Skills Qualification Framework (NSQF) has:
+A) 8 levels
+B) 10 levels
+C) 12 levels
+D) 15 levels
+Answer: B
+343. India's organic food market size is approximately:
+A) $1.2 billion
+B) $1.5 billion
+C) $1.8 billion
+D) $2.1 billion
+Answer: B
+344. The Stand Up India scheme provides:
+A) Bank loans to SC/ST and women entrepreneurs
+B) Skill development programs
+C) Market access support
+D) All of the above
+Answer: A
+
+345. India's artificial intelligence market size is projected to reach:
+A) $7 billion by 2025
+B) $10 billion by 2025
+C) $12 billion by 2025
+D) $15 billion by 2025
+Answer: A
+346. The Digital India Land Records Modernization covers:
+A) Survey and settlement
+B) Computerization of land records
+C) Geographic Information System (GIS)
+D) All of the above
+Answer: D
+347. India's fintech market size is approximately:
+A) $50 billion
+B) $60 billion
+C) $70 billion
+D) $80 billion
+Answer: C
+348. The Pradhan Mantri Fasal Bima Yojana provides:
+A) Crop insurance to farmers
+B) Weather-based insurance
+C) Technology adoption support
+D) All of the above
+Answer: A
+349. India's e-commerce market size is approximately:
+A) $55 billion
+B) $65 billion
+C) $75 billion
+D) $85 billion
+Answer: C
+350. The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
+guarantees:
+A) 100 days of employment
+B) 150 days of employment
+C) 200 days of employment
+D) 250 days of employment
+Answer: A
+351. India's healthcare market size is approximately:
+A) $280 billion
+B) $320 billion
+C) $360 billion
+
+D) $400 billion
+Answer: C
+352. The PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) provides:
+A) Working capital loans
+B) Digital payment incentives
+C) Skill development
+D) All of the above
+Answer: D
+353. India's real estate market size is approximately:
+A) $180 billion
+B) $200 billion
+C) $220 billion
+D) $240 billion
+Answer: B
+354. The National Bamboo Mission aims to:
+A) Increase bamboo production
+B) Value addition in bamboo
+C) Employment generation
+D) All of the above
+Answer: D
+355. India's gaming industry size is approximately:
+A) $1.2 billion
+B) $1.5 billion
+C) $1.8 billion
+D) $2.1 billion
+Answer: C
+356. The Production Linked Incentive for Food Processing Industry provides incentives for:
+A) Ready-to-cook/ready-to-eat foods
+B) Processed fruits and vegetables
+C) Mozzarella cheese
+D) All of the above
+Answer: D
+357. India's electric two-wheeler market is expected to reach:
+A) $5 billion by 2025
+B) $7 billion by 2025
+C) $9 billion by 2025
+D) $12 billion by 2025
+Answer: B
+358. The One District One Product (ODOP) scheme promotes:
+A) Local products and crafts
+B) Export promotion
+
+C) Skill development
+D) All of the above
+Answer: D
+359. India's cybersecurity market size is approximately:
+A) $3 billion
+B) $5 billion
+C) $7 billion
+D) $9 billion
+Answer: B
+360. The Har Ghar Jal scheme under Jal Jeevan Mission aims to provide:
+A) Piped water supply to all households
+B) Water quality testing
+C) Community water management
+D) All of the above
+Answer: A
+
+Section 8: Agriculture (70 Questions)
+361. Agriculture's contribution to India's GDP is approximately:
+A) 15%
+B) 17%
+C) 20%
+D) 23%
+Answer: B
+362. The Minimum Support Price (MSP) for crops is announced by:
+A) Ministry of Agriculture
+B) Commission for Agricultural Costs and Prices (CACP)
+C) Food Corporation of India
+D) Agricultural Marketing Division
+Answer: B
+363. India is the largest producer of:
+A) Rice
+B) Wheat
+C) Pulses
+D) Spices
+Answer: D
+364. The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) covers:
+A) All farmers
+B) Small and marginal farmers only
+C) Landless farmers
+D) Share croppers
+Answer: B
+
+365. Natural farming emphasizes:
+A) Zero use of chemicals
+B) Use of biological inputs
+C) Traditional farming methods
+D) All of the above
+Answer: D
+366. India's food grain production in 2023-24 was approximately:
+A) 315 million tonnes
+B) 325 million tonnes
+C) 330 million tonnes
+D) 340 million tonnes
+Answer: C
+367. The Agricultural Marketing and Farmer Friendly Reforms Index (AMFFRI) ranks states
+on:
+A) Market reforms implementation
+B) Agricultural productivity
+C) Farmer income
+D) Crop diversification
+Answer: A
+368. India's horticulture production is approximately:
+A) 320 million tonnes
+B) 340 million tonnes
+C) 360 million tonnes
+D) 380 million tonnes
+Answer: B
+369. The PM Fasal Bima Yojana covers:
+A) All crops
+B) Food crops only
+C) Cash crops only
+D) Notified crops in notified areas
+Answer: D
+370. Agricultural exports from India are approximately:
+A) $45 billion
+B) $52 billion
+C) $58 billion
+D) $65 billion
+Answer: B
+371. The e-NAM (National Agriculture Market) platform connects:
+A) 1,000 mandis
+B) 1,200 mandis
+C) 1,361 mandis
+D) 1,500 mandis
+Answer: C
+372. India's milk production is approximately:
+A) 210 million tonnes
+B) 221 million tonnes
+C) 230 million tonnes
+D) 240 million tonnes
+Answer: B
+373. The Paramparagat Krishi Vikas Yojana (PKVY) promotes:
+A) Organic farming
+B) Natural farming
+C) Sustainable agriculture
+D) All of the above
+Answer: A
+374. India's fish production is approximately:
+A) 14 million tonnes
+B) 16 million tonnes
+C) 18 million tonnes
+D) 20 million tonnes
+Answer: B
+375. The Kisan Credit Card (KCC) scheme provides:
+A) Crop loans
+B) Asset loans
+C) Consumption loans
+D) All of the above
+Answer: D
+376. India's egg production is approximately:
+A) 115 billion eggs
+B) 125 billion eggs
+C) 135 billion eggs
+D) 145 billion eggs
+Answer: C
+377. The National Food Security Act covers:
+A) 67% of population
+B) 70% of population
+C) 75% of population
+D) 80% of population
+Answer: A
+378. India's poultry meat production is approximately:
+A) 4.5 million tonnes
+B) 5.2 million tonnes
+
+C) 6.1 million tonnes
+D) 7.2 million tonnes
+Answer: B
+379. The Model Tenancy Act 2021 aims to:
+A) Legalize agricultural tenancy
+B) Protect tenant farmers' rights
+C) Encourage land leasing
+D) All of the above
+Answer: D
+380. India's honey production is approximately:
+A) 80,000 tonnes
+B) 100,000 tonnes
+C) 120,000 tonnes
+D) 140,000 tonnes
+Answer: C
+381. The Pradhan Mantri Krishi Sinchai Yojana (PMKSY) focuses on:
+A) Har Khet Ko Pani
+B) Per Drop More Crop
+C) Watershed development
+D) All of the above
+Answer: D
+382. India's sugarcane production is approximately:
+A) 380 million tonnes
+B) 405 million tonnes
+C) 425 million tonnes
+D) 450 million tonnes
+Answer: B
+383. The Agriculture Infrastructure Fund provides:
+A) ₹1 lakh crore financing
+B) Interest subvention
+C) Credit guarantee
+D) All of the above
+Answer: D
+384. India's cotton production is approximately:
+A) 32 million bales
+B) 35 million bales
+C) 38 million bales
+D) 41 million bales
+Answer: B
+385. The Rashtriya Gokul Mission aims to:
+A) Cattle breed improvement
+
+B) Milk production enhancement
+C) Rural livelihood improvement
+D) All of the above
+Answer: D
+386. India's oilseeds production is approximately:
+A) 35 million tonnes
+B) 38 million tonnes
+C) 41 million tonnes
+D) 44 million tonnes
+Answer: B
+387. The Soil Health Card scheme provides:
+A) Soil testing results
+B) Fertilizer recommendations
+C) Organic farming guidance
+D) All of the above
+Answer: D
+388. India's jute production is approximately:
+A) 1.5 million tonnes
+B) 1.8 million tonnes
+C) 2.1 million tonnes
+D) 2.4 million tonnes
+Answer: B
+389. The Mission for Integrated Development of Horticulture (MIDH) covers:
+A) Fruits and vegetables
+B) Flowers and aromatic plants
+C) Spices and plantation crops
+D) All of the above
+Answer: D
+390. India's tea production is approximately:
+A) 1.2 million tonnes
+B) 1.35 million tonnes
+C) 1.5 million tonnes
+D) 1.65 million tonnes
+Answer: B
+391. The National Beekeeping and Honey Mission (NBHM) aims to:
+A) Increase honey production
+B) Improve bee colony health
+C) Enhance farmer income
+D) All of the above
+Answer: D
+
+392. India's coffee production is approximately:
+A) 320,000 tonnes
+B) 350,000 tonnes
+C) 380,000 tonnes
+D) 410,000 tonnes
+Answer: A
+393. The PM Kisan Maandhan scheme provides:
+A) Life insurance for farmers
+B) Pension for farmers
+C) Health insurance for farmers
+D) Accident insurance for farmers
+Answer: B
+394. India's rubber production is approximately:
+A) 650,000 tonnes
+B) 700,000 tonnes
+C) 750,000 tonnes
+D) 800,000 tonnes
+Answer: B
+395. The Agriculture Export Policy aims to:
+A) Double agricultural exports by 2025
+B) Diversify export basket
+C) Promote high-value agriculture
+D) All of the above
+Answer: D
+396. India's coconut production is approximately:
+A) 18 billion nuts
+B) 20 billion nuts
+C) 22 billion nuts
+D) 24 billion nuts
+Answer: C
+
+
