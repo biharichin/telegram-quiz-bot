@@ -1,6 +1,12 @@
-# Summary of Today's Work (2025-08-09)
+# Summary of Today's Work (2025-08-16)
 
 ## What we did:
+
+1.  **Fixed the repeated questions problem:**
+    *   The bot was sending the same questions every day because the `progress.json` file was not being updated in the repository.
+    *   I modified the `.github/workflows/main.yml` file to add steps to commit and push the updated `progress.json` file after each run.
+
+## Previous Work (2025-08-09)
 
 1.  **Fixed the `mcqs.json` file:**
     *   The original `mcqs.json` file had malformed data.
